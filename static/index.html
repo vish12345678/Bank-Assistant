@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Product Advisor</title>
+<style>
+  :root {
+    --bg: #f6f7f9; --panel: #ffffff; --ink: #1b1f24; --muted: #5f6b7a; --line: #e3e6ea;
+    --accent: #0b5cad; --accent-soft: #e8f1fb; --warn: #9a5b00; --warn-soft: #fff4e0; --ok: #1d7a46;
+    --user: #0b5cad; --user-ink: #fff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #111418; --panel: #191d22; --ink: #e6e9ed; --muted: #9aa5b1; --line: #2a3038;
+      --accent: #5aa2f0; --accent-soft: #1b2a3b; --warn: #f0b45a; --warn-soft: #2e2416; --ok: #5cc98b;
+      --user: #2a5d93; --user-ink: #fff; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--ink); }
+  header { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between;
+    padding: 12px 20px; background: var(--panel); border-bottom: 1px solid var(--line); }
+  header h1 { font-size: 17px; margin: 0; }
+  header .sub { color: var(--muted); font-size: 13px; }
+  .controls { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+  select, button, textarea { font: inherit; color: inherit; }
+  select { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 6px 8px; }
+  .badge { font-size: 12px; padding: 3px 8px; border-radius: 99px; background: var(--accent-soft); color: var(--accent); white-space: nowrap; }
+  .badge.off { background: var(--warn-soft); color: var(--warn); }
+  main { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 16px; padding: 16px 20px; height: calc(100vh - 62px); }
+  .chat { display: flex; flex-direction: column; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; min-height: 0; }
+  #log { flex: 1; overflow-y: auto; padding: 16px; display: flex; flex-direction: column; gap: 14px; }
+  .msg { max-width: 92%; }
+  .msg.user { align-self: flex-end; background: var(--user); color: var(--user-ink); padding: 9px 13px; border-radius: 12px 12px 2px 12px; white-space: pre-wrap; }
+  .msg.bot { align-self: flex-start; }
+  .msg.bot h3 { font-size: 14px; margin: 14px 0 4px; color: var(--accent); }
+  .msg.bot p { margin: 6px 0; }
+  .msg.bot ul, .msg.bot ol { margin: 4px 0; padding-left: 22px; }
+  .msg.bot li { margin: 3px 0; }
+  .cite { font-size: 11px; background: var(--accent-soft); color: var(--accent); border-radius: 4px; padding: 0 4px; cursor: pointer; }
+  .notice { font-size: 13px; color: var(--warn); background: var(--warn-soft); padding: 6px 10px; border-radius: 8px; }
+  .typing { color: var(--muted); font-size: 13px; }
+  .welcome { color: var(--muted); }
+  .welcome strong { color: var(--ink); }
+  .examples { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+  .examples button { background: var(--bg); border: 1px solid var(--line); border-radius: 99px; padding: 6px 12px; cursor: pointer; font-size: 13px; text-align: left; }
+  .examples button:hover { border-color: var(--accent); }
+  form { display: flex; gap: 8px; padding: 12px; border-top: 1px solid var(--line); }
+  textarea { flex: 1; resize: none; border: 1px solid var(--line); border-radius: 10px; padding: 10px; background: var(--bg); min-height: 46px; max-height: 160px; }
+  .btn { background: var(--accent); color: #fff; border: 0; border-radius: 10px; padding: 0 18px; cursor: pointer; font-weight: 600; }
+  .btn:disabled { opacity: .5; cursor: default; }
+  .ghost { background: transparent; border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; cursor: pointer; }
+  aside { display: flex; flex-direction: column; gap: 16px; overflow-y: auto; min-height: 0; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+  .card h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin: 0 0 10px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip { font-size: 12px; background: var(--bg); border: 1px solid var(--line); border-radius: 99px; padding: 2px 9px; }
+  .kv { display: grid; grid-template-columns: 90px 1fr; gap: 4px 8px; font-size: 13px; margin-top: 8px; }
+  .kv dt { color: var(--muted); }
+  .kv dd { margin: 0; }
+  .missing { font-size: 13px; margin: 8px 0 0; padding-left: 18px; color: var(--muted); }
+  .src { border-top: 1px solid var(--line); padding: 10px 0; }
+  .src:first-of-type { border-top: 0; padding-top: 0; }
+  .src summary { cursor: pointer; list-style: none; }
+  .src summary::-webkit-details-marker { display: none; }
+  .src .t { font-weight: 600; font-size: 14px; }
+  .src .m { font-size: 12px; color: var(--muted); }
+  .src .flag { font-size: 12px; color: var(--warn); }
+  .src .body { font-size: 13px; white-space: pre-wrap; color: var(--muted); margin-top: 6px; }
+  .src a { color: var(--accent); font-size: 12px; word-break: break-all; }
+  .src.hl { background: var(--accent-soft); border-radius: 8px; }
+  .bar { height: 4px; background: var(--line); border-radius: 2px; margin-top: 4px; }
+  .bar i { display: block; height: 100%; background: var(--accent); border-radius: 2px; }
+  .empty { color: var(--muted); font-size: 13px; }
+  @media (max-width: 900px) {
+    main { grid-template-columns: 1fr; height: auto; padding: 12px 16px; }
+    .chat { height: 70vh; }
+    header { padding: 10px 16px; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Product Advisor</h1>
+    <div class="sub">Describe your client — get matching bank products &amp; government schemes</div>
+  </div>
+  <div class="controls">
+    <label for="bank" class="sub">I sell for</label>
+    <select id="bank"></select>
+    <span id="mode" class="badge">loading…</span>
+    <button class="ghost" id="reset" type="button">New client</button>
+  </div>
+</header>
+<main>
+  <section class="chat">
+    <div id="log">
+      <div class="welcome" id="welcome">
+        <p><strong>Tell me about your client</strong> — age, occupation, income, what they want, any constraints.
+        Short notes are fine. You can add details in follow-up messages.</p>
+        <div class="examples" id="examples"></div>
+      </div>
+    </div>
+    <form id="form">
+      <textarea id="input" rows="1" placeholder="e.g. 62 yr retired govt teacher, ₹25L from PF, wants safe monthly income…"></textarea>
+      <button class="btn" id="send" type="submit">Send</button>
+    </form>
+  </section>
+  <aside>
+    <div class="card"><h2>Client profile</h2><div id="profile" class="empty">Appears after your first message.</div></div>
+    <div class="card"><h2>Knowledge base matches</h2><div id="sources" class="empty">Retrieved products will show here.</div></div>
+  </aside>
+</main>
+<script>
+const EXAMPLES = [
+  "62 yr old retired govt teacher, got ₹25 lakh PF + gratuity, wants safe monthly income, also worried about medical costs",
+  "Woman, 34, wants to open a boutique in Pune, needs ₹15 lakh, has no property to give as collateral",
+  "Salaried IT employee, 29, ₹18 LPA, old tax regime, already maxed 80C, wants to save more tax and buy a flat in 2 years",
+  "Parents of a 4-year-old daughter want a safe long-term plan for her education",
+  "NRI in Dubai, sends ₹1.5L home every month, wants tax-free returns and may move back in 5 years",
+  "Small kirana shop owner, ₹40L annual turnover, wants to accept UPI/cards and needs working capital for stock",
+  "Farmer with 4 acres, grows cotton, needs crop loan and wants to buy a tractor",
+  "22-year-old fresher, first job, no credit history, wants a credit card",
+];
+const $ = (id) => document.getElementById(id);
+let history = [];
+let busy = false;
+
+function esc(s) { return s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+function inline(s) {
+  return esc(s)
+    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/(^|[^*])\*([^*\s][^*]*?)\*/g, "$1<em>$2</em>")
+    .replace(/_([^_\s][^_]*?)_/g, "<em>$1</em>")
+    .replace(/`([^`]+)`/g, "<code>$1</code>")
+    .replace(/\[S(\d+)\]/g, '<span class="cite" data-s="$1">S$1</span>');
+}
+function md(text) {
+  const out = []; let list = null;
+  const close = () => { if (list) { out.push(`</${list}>`); list = null; } };
+  for (const raw of text.split("\n")) {
+    const line = raw.trimEnd();
+    let m;
+    if ((m = line.match(/^#{1,4}\s+(.*)/))) { close(); out.push(`<h3>${inline(m[1])}</h3>`); }
+    else if ((m = line.match(/^\s*\d+[.)]\s+(.*)/))) { if (list !== "ol") { close(); out.push("<ol>"); list = "ol"; } out.push(`<li>${inline(m[1])}`); }
+    else if ((m = line.match(/^\s*[-*•]\s+(.*)/))) {
+      const nested = /^\s{2,}/.test(line) && list === "ol";
+      if (nested) { out.push(`<br>• ${inline(m[1])}`); }
+      else { if (list !== "ul") { close(); out.push("<ul>"); list = "ul"; } out.push(`<li>${inline(m[1])}</li>`); }
+    }
+    else if (!line.trim()) { if (list !== "ol") close(); }
+    else { if (list === "ol" && /^\s/.test(raw)) out.push(`<br>${inline(line.trim())}`); else { close(); out.push(`<p>${inline(line)}</p>`); } }
+  }
+  close();
+  return out.join("");
+}
+
+function add(cls, html) {
+  $("welcome")?.remove();
+  const d = document.createElement("div"); d.className = "msg " + cls; d.innerHTML = html;
+  $("log").appendChild(d); $("log").scrollTop = $("log").scrollHeight; return d;
+}
+
+function renderProfile(p) {
+  const chips = [...(p.segments || []).map(s => s.replace(/_/g, " ")), ...(p.needs || []).map(n => "needs " + n)];
+  const rows = [["Age", p.age], ["Income", p.income_or_turnover], ["Amount", p.amount], ["Horizon", p.horizon], ["Risk", p.risk_appetite]]
+    .filter(([, v]) => v !== null && v !== undefined && v !== "");
+  $("profile").className = "";
+  $("profile").innerHTML =
+    `<div style="font-size:14px;margin-bottom:8px">${esc(p.summary || "")}</div>` +
+    `<div class="chips">${chips.map(c => `<span class="chip">${esc(c)}</span>`).join("")}</div>` +
+    (rows.length ? `<dl class="kv">${rows.map(([k, v]) => `<dt>${k}</dt><dd>${esc(String(v))}</dd>`).join("")}</dl>` : "") +
+    ((p.missing_info || []).length ? `<div class="m" style="margin-top:10px;font-size:12px;color:var(--muted)">Still unknown</div><ul class="missing">${p.missing_info.map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : "");
+}
+
+function renderSources(list) {
+  $("sources").className = "";
+  $("sources").innerHTML = list.map(s => `
+    <details class="src" id="src-${s.n}">
+      <summary>
+        <div class="t"><span class="cite">S${s.n}</span> ${esc(s.title)}</div>
+        <div class="m">${esc(s.bank)} · ${esc(s.category)}${s.reasons.length ? " · " + esc(s.reasons.join(" · ")) : ""}</div>
+        ${s.flag ? `<div class="flag">⚠ ${esc(s.flag)}</div>` : ""}
+        <div class="bar"><i style="width:${Math.max(4, Math.min(100, s.score * 70))}%"></i></div>
+      </summary>
+      <div class="body">${esc(s.body)}</div>
+      ${/^https?:/.test(s.url) ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.url)}</a>` : ""}
+    </details>`).join("");
+}
+
+document.addEventListener("click", (e) => {
+  const c = e.target.closest(".cite[data-s]"); if (!c) return;
+  const el = $("src-" + c.dataset.s); if (!el) return;
+  document.querySelectorAll(".src.hl").forEach(x => x.classList.remove("hl"));
+  el.open = true; el.classList.add("hl"); el.scrollIntoView({ behavior: "smooth", block: "nearest" });
+});
+
+async function send(text) {
+  if (busy || !text.trim()) return;
+  busy = true; $("send").disabled = true;
+  add("user", esc(text));
+  const bot = add("bot", '<span class="typing">Understanding client · searching products…</span>');
+  let answer = "";
+  try {
+    const res = await fetch("/api/chat", { method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ message: text, history, bank: $("bank").value }) });
+    const reader = res.body.getReader(); const dec = new TextDecoder(); let buf = "";
+    while (true) {
+      const { value, done } = await reader.read(); if (done) break;
+      buf += dec.decode(value, { stream: true });
+      let i;
+      while ((i = buf.indexOf("\n\n")) >= 0) {
+        const chunk = buf.slice(0, i); buf = buf.slice(i + 2);
+        if (!chunk.startsWith("data: ")) continue;
+        const ev = JSON.parse(chunk.slice(6));
+        if (ev.type === "profile") renderProfile(ev.profile);
+        else if (ev.type === "sources") { renderSources(ev.sources); if (!answer) bot.innerHTML = '<span class="typing">Writing recommendation…</span>'; }
+        else if (ev.type === "notice") add("bot", `<div class="notice">${esc(ev.text)}</div>`);
+        else if (ev.type === "token") { answer += ev.text; bot.innerHTML = md(answer); $("log").scrollTop = $("log").scrollHeight; }
+        else if (ev.type === "error") bot.innerHTML = `<div class="notice">Error: ${esc(ev.text)}</div>`;
+      }
+    }
+    history.push({ role: "user", content: text }, { role: "assistant", content: answer });
+  } catch (err) {
+    bot.innerHTML = `<div class="notice">Request failed: ${esc(String(err))}</div>`;
+  }
+  busy = false; $("send").disabled = false; $("input").focus();
+}
+
+$("form").addEventListener("submit", (e) => { e.preventDefault(); const t = $("input").value; $("input").value = ""; send(t); });
+$("input").addEventListener("keydown", (e) => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); $("form").requestSubmit(); } });
+$("input").addEventListener("input", (e) => { e.target.style.height = "auto"; e.target.style.height = e.target.scrollHeight + "px"; });
+$("reset").addEventListener("click", () => location.reload());
+$("examples").innerHTML = EXAMPLES.map(x => `<button type="button">${esc(x)}</button>`).join("");
+$("examples").addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) send(b.textContent); });
+
+fetch("/api/meta").then(r => r.json()).then(m => {
+  $("bank").innerHTML = m.banks.map(b => `<option>${esc(b)}</option>`).join("");
+  try { const saved = localStorage.getItem("bank"); if (saved && m.banks.includes(saved)) $("bank").value = saved; } catch {}
+  $("mode").textContent = m.llm ? `Claude · ${m.products} KB records` : `Offline mode · ${m.products} KB records`;
+  $("mode").className = "badge" + (m.llm ? "" : " off");
+  $("mode").title = `Retrieval: ${m.retrieval}` + (m.llm ? `\nModel: ${m.model}` : "\nAdd ANTHROPIC_API_KEY to .env for AI recommendations");
+});
+$("bank").addEventListener("change", () => { try { localStorage.setItem("bank", $("bank").value); } catch {} });
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Embedding model (~65 MB) - fastembed downloads it automatically on first run
+.model_cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Claude desktop app preview config
+.claude/

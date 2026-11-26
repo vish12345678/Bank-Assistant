@@ -1,0 +1,2059 @@
+[
+ {
+  "id": "sbi-bank-in-web-yono-home-loan-1",
+  "title": "Home Loan (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "home",
+   "loan",
+   "yono"
+  ],
+  "body": "Home Loan - Yono:\n- Scan QR to Download YONO SBI\nFeatures:\n- Available to customers 24*7. Instant in-principle approval and considerable improvement in overall TAT.\n- Real time notifications and status updates at every stage.\n- Low processing charges. No hidden cost or administrative charge\nEligibility:\n- Resident Status: For Resident Indian only\n- Min Age : 18 years & Max. Age : 70 years\n- Loan Tenure: up to 30 years\nHow to Avail:\n- For existing SBI customers, Log in to YONO & under Hamburger menu (☰ ) on the top left end > Loan > Home Loan, tap on Apply Now.\n- For non SBI customer, in pre login screen > Loans> Home Loan, tap on Apply Now\n- Complete the application and accept terms and conditions. Lead will be generated.\n- Last Updated On : Saturday, 19-07-2025",
+  "source": "https://sbi.bank.in/web/yono/home-loan",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-loans-home-loan-1",
+  "title": "NRI Home Loan (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "home",
+   "loan",
+   "loans",
+   "nri"
+  ],
+  "body": "Home Loan - NRI:\n- State Bank of India is the largest Mortgage Lender in India, which has helped over 30 lakh families achieve their dreams of owning a home. As an NRI, you can get an in-principle approval on your home loan through our online portal...\nFeatures:\n- Interest Calculation on Daily Reducing Balance\n- Winner of the “Best Home Loan Provider “at the CNBZ Awaaz Real Estate Awards 2016\n- Please click here for complete details.\n- Last Updated On : Wednesday, 18-03-2026",
+  "source": "https://sbi.bank.in/web/nri/loans/home-loan",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-real-time-personal-loan-1",
+  "title": "Digi Personal Loan (DigiPL) — Digi Personal Loan (DigiPL) - Yono (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "loan",
+   "personal",
+   "real",
+   "time",
+   "yono"
+  ],
+  "body": "Digi Personal Loan (DigiPL) - Yono:\n- Scan QR to Download YONO SBI\n- Fully digitized loan journey designed for customers maintaining Salary Package account with the Bank\nFeatures:\n- Loans up to ₹35 lakhs.\n- Can be availed instantly at your convenience on 24*7 basis\n- Digitization of entire loan documentation processes viz. loan application, loan agreement, stamping and signature at DDE enabled States/ UTs.\n- Non-DDE: Real-time sanction on YONO, document execution and single click disbursement at selected branch\n- Aadhaar OTP based e-sign of customer.\n- Step-by-Step Guided e-mail and SMS Communication System\nEligibility:\n- Salaried customers maintaining Salary Package account with the Bank\n- Minimum Net Monthly Income of Rs. 25000/-\n- Minimum Loan amount: Rs. 1 lakh\n- Maximum Loan Amount: Rs 35 lakhs / 24 times NMI\n- EMI/NMI Ratio upto 65%",
+  "source": "https://sbi.bank.in/web/yono/real-time-personal-loan",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-real-time-personal-loan-2",
+  "title": "Digi Personal Loan (DigiPL) — How to Avail (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "loan",
+   "personal",
+   "real",
+   "time",
+   "yono"
+  ],
+  "body": "How to Avail:\n- Step 1: Log in to YONO, click Loan & click on Personal Loan\n- Step 2: Enter your PAN, Date of Birth & Name on PAN and Verify e-mail ID.\n- Step 3: Upload Photo, choose your desired loan amount, tenure, and EMI payment date.\n- Step 4: Accept the Terms & Conditions and confirm via OTP.\n- Step5: Execute the Loan documents digitally through Aadhaar based OTP or visit branch for documentation. Your loan amount will be credited to your Savings Bank account\n- Last Updated On : Tuesday, 13-10-2026",
+  "source": "https://sbi.bank.in/web/yono/real-time-personal-loan",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-pre-approved-personal-loan-1",
+  "title": "Pre Approved Personal Loan — Pre Approved Personal Loan - Yono (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "approved",
+   "loan",
+   "personal",
+   "pre",
+   "yono"
+  ],
+  "body": "Pre Approved Personal Loan - Yono:\n- Scan QR to Download YONO SBI\n- Instant disbursement of pre-Approved Personal Loan (PAPL) up to ₹ 15 lakhs without documentation and without Branch visit, available 24X7.\nFeatures:\n- Managing your finances just got easier and more rewarding with SBI!\n- Eligible State Bank of India (SBI) account holders can now access pre-approved personal loans instantly, anytime, anywhere.\n- Experience the convenience of securing funds in just a few clicks through the user-friendly YONO SBI mobile app or YONO Net Banking.\n- Get instant loan approval and disbursement in just 4 clicks\n- Enjoy a completely paperless application process\n- 24/7 availability through YONO & Internet Banking\n- Apply conveniently online - no branch visits required\n- To know more, visit YONO BLOGS\nEligibility:\n- Please note that PAPL is an offer to selected customers and not an actual sanction, which will be available only after fulfilment of terms & conditions applicable thereof.",
+  "source": "https://sbi.bank.in/web/yono/pre-approved-personal-loan",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-pre-approved-personal-loan-2",
+  "title": "Pre Approved Personal Loan — How to Avail (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "approved",
+   "loan",
+   "personal",
+   "pre",
+   "yono"
+  ],
+  "body": "How to Avail:\n- Step 1: Log in to YONO and tap on the PAPL banner\n- Step 2: Enter your PAN, Date of Birth & Name on PAN\n- Step 3: Choose your desired loan amount, tenure, and EMI payment date.\n- Step 4: Accept the Terms & Conditions and confirm via OTP.\n- Your loan amount will be instantly credited to your Savings Bank account\n- Last Updated On : Wednesday, 30-09-2026",
+  "source": "https://sbi.bank.in/web/yono/pre-approved-personal-loan",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-car-loan-1",
+  "title": "Car Loan (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "car",
+   "loan",
+   "yono"
+  ],
+  "body": "Car Loan - Yono:\n- Scan QR to Download YONO SBI\n- Car loan on YONO is envisaged as one-stop solution for applying for loan, Covering existing Bank customers (salaried and non salaried customer categories) under self service mode.\nFeatures:\n- Financing up to 100% of 'On-road Price'\n- Longest Repayment Tenure (7 years)\nEligibility:\n- For resident individual aged 21 to 70 years\n- For Salaried customers - Net Annual Income of applicant and/or co-applicant if any, together should be a minimum of Rs. 3,00,000/-.\n- For Self-Employed customers- Net Profit or Gross Taxable income of Rs. 3, 00,000/- p.a. (income of co-applicant can be clubbed together).\nHow to Avail:\n- Step1: Login to YONO & under Hamburger menu (☰ ) on top left end > Loan > Car Loan, tap on Apply Now.\n- Step2: Review and update your personal & employment details\n- Step3: Select the vehicle details and enter price details\n- Step4: Select loan amount, tenure and branch\n- Step5: Accept terms and conditions. Lead and in-principle offer will be generated. Visit your selected branch for further process.\n- Last Updated On : Wednesday, 21-05-2025",
+  "source": "https://sbi.bank.in/web/yono/car-loan",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-loans-car-loan-1",
+  "title": "NRI Car Loan — Features (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual",
+   "nri"
+  ],
+  "tags": [
+   "car",
+   "loan",
+   "loans",
+   "nri"
+  ],
+  "body": "Features:\n- Car loan for Non-Resident Indian (Under the NRI – Car Loan Scheme, the NRI will be the Borrower and the NRI’s close relative in India will be the Co- Applicant or Guarantor)\n- Loan amount eligible is derived on the basis of the Applicant’s (Borrower) income.\n- Interest Rates : click here to view the Interest rates\n- Processing Fee : click here to view the Processing Fee\n- Repayment period: Up to 7 years\n- Interest calculated on Daily Reducing Balance.\n- Financing up to 90% of 'On-road Price'. On-Road price includes Vehicle Ex-Show Room Price, Registration & Insurance cost.\n- EMI/NMI: Up to Rs.5 Lakhs 50% , Rs. 5- 10 Lakhs 60%, Above Rs. 10 Lakhs 65%\n- Income: - For Borrower: Minimum NMI US $ 1000.00 or equivalent in other currencies Or, Minimum NAI US $ 12000 or equivalent in other currencies\n- Repayment: Standing Instruction (SI) on Applicant’s NRI Account with SBI\n- Loan for purchase of new passenger cars, Multi Utility Vehicles (MUVs) and SUVs.",
+  "source": "https://sbi.bank.in/web/nri/loans/car-loan",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-loans-car-loan-2",
+  "title": "NRI Car Loan — Eligibility (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual",
+   "nri"
+  ],
+  "tags": [
+   "car",
+   "loan",
+   "loans",
+   "nri"
+  ],
+  "body": "Eligibility:\n- NRI will be an Applicant (Borrower), with a Resident Indian as a Guarantor or Co- Applicant.\n- Both Applicant & Co-Applicant / Guarantor, should be of an age between 21 - 70 years.\n- Loan must be repaid before the applicant reaches the age of 75.\n- Income from co-applicant can be considered for arriving at loan eligibility\n- NRI applicant (borrower) should fulfil the following conditions\n- Maintains a steady source of income\n- Employed abroad for at least two years\n- Hold a valid job contract / work permit\n- Maintains an NRI account with SBI for at least twelve months with minimum average balance of ₹50,000/- or opens a new account with USD 5000/- or its equivalent as the initial deposit OR Maintain an NRI account with other Banks for last 24 months with a minimum balance/fixed deposits of ₹50,000/-\n- Have a minimum Net Monthly Income of USD 1000/- or a minimum Net Annual Income of USD 12000/- (equivalent amount in other currencies)\n- In case of other Bank customer, the borrower has to open NRI account with SBI for repayment of EMIs.\n- Co- Applicant / Guarantor (Resident Indian) should fulfil the following conditions\n- Resident Indian who is the Co – Applicant / Guarantor to the loan in NRI Car Loan should be a close relative as below:\n- Power of Attorney (if required by the applicant).\n- 3 passport size photos\n- Passport copy with page containing visa stamping\n- Employment contract copy (If the contract is in any other language, then an English translation duly attested by employer / consulate / embassy / SBI foreign office)\n- Latest salary certificate in original or proof of income in case of self employed / professionals e.g. IT Return (of the residing country of NRI) / Tax Residency Certificate\n- Copy of identity card issued by the employer\n- Proof of",
+  "source": "https://sbi.bank.in/web/nri/loans/car-loan",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-loans-education-loans-1",
+  "title": "Educational Loans (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "student"
+  ],
+  "tags": [
+   "banking",
+   "education",
+   "loans",
+   "personal"
+  ],
+  "body": "Educational Loans - Apply for Educational Loan Online in India | SBI - Personal Banking:\n- For Quality Higher Educational Institutions (QHEIs) selected by Government\n- For Studies abroad (above ₹7.50 lakhs)\n- Dr. Ambedkar Interest Subsidy Scheme for Overseas Studies...\n- Padho Pardesh Interest Subsidy Scheme for Overseas Studies for the...\n- For Defence, Indian Coast Guard & Central Armed Police Force Personnel\n- Release of Property Documents of EL",
+  "source": "https://sbi.bank.in/web/personal-banking/loans/education-loans",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-personal-gold-loan-1",
+  "title": "Personal Gold Loan (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "gold",
+   "loan",
+   "personal",
+   "yono"
+  ],
+  "body": "Personal Gold Loan - Yono:\n- Scan QR to Download YONO SBI\n- Get a personal Gold Loan in just one Branch visit* on applying through YONO\nFeatures:\n- 24X7 Loan Application\n- Minimum – Rs 20,000/-\n- Maximum – Rs. 50,00,000/-\n- Margin: Minimum 25%\n- Repayment: Maximum 36 months\nEligibility:\n- Resident Indian of age 18 years and above with a steady source of income.\n- Maximum 3 active gold loans within total limit of Rs. 50,00,000 can be availed\nHow to Avail:\n- Get loan amount disbursed in your account\n- Last Updated On : Wednesday, 21-05-2025",
+  "source": "https://sbi.bank.in/web/yono/personal-gold-loan",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-agriculture-gold-loan-1",
+  "title": "Agriculture Gold Loan — Agriculture Gold Loan - Yono (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "farmer"
+  ],
+  "tags": [
+   "agriculture",
+   "gold",
+   "loan",
+   "yono"
+  ],
+  "body": "Agriculture Gold Loan - Yono:\n- Scan QR to Download YONO SBI\n- Apply for Agriculture Gold Loans 24X7 on YONO and one branch visit to complete the loan process.\nPurpose:\n- To meet the short-term production/ investment credit needs of\n- The farmers, engaged in agriculture, cultivating own and/or leased land or engaged in cultivation of crops.\n- Farmers in allied activities like Dairy, Poultry, Fisheries, Piggery, Sheep etc.\n- Entrepreneurs and farmers who needs investment credit for acquiring farm machinery, undertaking land development, irrigation, horticulture, transportation of Agri product etc.\n- All other farming activities which are permitted to be classified under agriculture as per RBI/GoI/NABARD guidelines.",
+  "source": "https://sbi.bank.in/web/yono/agriculture-gold-loan",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-agriculture-gold-loan-2",
+  "title": "Agriculture Gold Loan — Eligibility (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "farmer",
+   "individual"
+  ],
+  "tags": [
+   "agriculture",
+   "gold",
+   "loan",
+   "yono"
+  ],
+  "body": "Eligibility:\n- All farmers : Individuals who are owner cultivators, Agri entrepreneurs.\n- Tenant farmers, Oral lessees & Sharecroppers\n- Any person engaged in any agriculture or allied activities and want to repay loans availed from non-institutional lenders as well as persons engaged in activities permitted by RBI to be classified under agriculture. A self-declaration has to be obtained from the applicant that he/she is engaged in Agri and allied activities and that the loan availed against the pledge of Gold ornaments is for repayment of higher interest rate loans availed from non-institutional lenders.\n- Last Updated On : Friday, 06-02-2026",
+  "source": "https://sbi.bank.in/web/yono/agriculture-gold-loan",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-fixed-deposit-1",
+  "title": "Fixed Deposit — Fixed Deposit - Yono (SBI)",
+  "bank": "SBI",
+  "category": "deposit",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "deposit",
+   "fixed",
+   "yono"
+  ],
+  "body": "Fixed Deposit - Yono:\n- Scan QR to Download YONO SBI\n- Park your lump sum amount in an SBI Term Deposit and avail of features like guaranteed returns, choice of interest payout, liquidity through OD or premature withdrawal.\n- Invest today through OnlineSBI or by visiting your branch.",
+  "source": "https://sbi.bank.in/web/yono/fixed-deposit",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-fixed-deposit-2",
+  "title": "Fixed Deposit — Features (SBI)",
+  "bank": "SBI",
+  "category": "deposit",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "deposit",
+   "fixed",
+   "yono"
+  ],
+  "body": "Features:\n- To enable our customers to place long term deposits to earn attractive rate of interest along with a flexibility in choosing the deposit amount in both Mode STDR/TDR/TSFD ( Tax saver fixed Dep cannot be premature before maturity)\n- Eligibility: Individuals in single and joint account with Mod of operation E or S, f or S, Any or S (Jointly operated not permissible)\n- Period of deposit: Minimum – 7 days and Maximum - 10 years But for TSFD the minimum period should be 5 years\n- Minimum Deposit amount Rs. 1000/- at any one instance. ( Under TSFD\n- Maximum deposit amount Rs.99,99,999/- at any one instance.\n- Premature penalty up to Rs.5 lacs is waived and above Rs.5 lacs 0.5% penalty on applicable interest rate.\n- Nomination available in favour of individual only.\n- DL/OD can be availed 90% on STDR & 75% ON TDR AND On TSFD no OD allowed\n- Rate of interest as applicable to Term Deposits for Public and Senior Citizens\n- TDS is applicable at prevalent rate. Form 15G/15H can be submitted by the depositor to get exemption from Tax deduction as per Income Tax Rules.",
+  "source": "https://sbi.bank.in/web/yono/fixed-deposit",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-fixed-deposit-3",
+  "title": "Fixed Deposit — Most important Terms and Conditions (SBI)",
+  "bank": "SBI",
+  "category": "deposit",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "deposit",
+   "fixed",
+   "yono"
+  ],
+  "body": "Most important Terms and Conditions:\n- Interest can be paid on monthly intervals on discounted rate.\n- Interest can also be paid at Calendar quarter basis.\n- TDS at prevalent Income tax rate is deducted if Form 15G/15H not submitted.\n- Auto renewal is exercised if maturity instructions are not given.\n- Last Updated On : Thursday, 30-12-2021",
+  "source": "https://sbi.bank.in/web/yono/fixed-deposit",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-tax-saver-fixed-deposit-1",
+  "title": "Tax Saver Fixed Deposit — Tax Saver Fixed Deposit - Yono (SBI)",
+  "bank": "SBI",
+  "category": "deposit",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "deposit",
+   "fixed",
+   "saver",
+   "tax",
+   "yono"
+  ],
+  "body": "Tax Saver Fixed Deposit - Yono:\n- Scan QR to Download YONO SBI\nFeatures:\n- SBI Tax Savings Scheme offers Tax benefits under Sec. 80C of Income Tax Act.\n- Type of Account : Term Deposit (TD) account / Special Term Deposit (STD) account.\n- Minimum period of deposit – 5 Years\n- Maximum period of deposit - 10 Years\n- Minimum deposit amount Rs. 1,000/- (and in multiples of Rs. 100/- thereafter for Senior Citizen Min Dep is Rs. 10000/-\n- Maximum deposit amount not exceeding Rs. 1,50,000/- in a financial year to take the advantage of 80C.\n- Rate of interest as applicable to Term Deposits for Public and Senior Citizens.\n- Payment of interest as applicable to Term Deposit/ Special Term Deposit\n- TDS is applicable at prevalent rate. Form 15G/15H can be submitted by the depositor to get exemption from Tax deduction as per Income Tax Rules.\n- Loan facility not available during the lock in period of five years.\n- No deposit shall be encashed before expiry of 5 years from date of deposit except in case of death of depositor.",
+  "source": "https://sbi.bank.in/web/yono/tax-saver-fixed-deposit",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-tax-saver-fixed-deposit-2",
+  "title": "Tax Saver Fixed Deposit — Eligibility (SBI)",
+  "bank": "SBI",
+  "category": "deposit",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "deposit",
+   "fixed",
+   "saver",
+   "tax",
+   "yono"
+  ],
+  "body": "Eligibility:\n- Resident Indians for himself/ herself as an individual or in the capacity of the Karta of the Hindu undivided family, having Income Tax Permanent Account Number (PAN).\n- The joint account shall be issued jointly to two adults or to an adult and a minor.\nTerms And Conditions:\n- No term deposit shall be encashed before the expiry of lock in period of five years from the date of its receipt.\n- After completion of 5 years, premature closure will be allowed as per terms and conditions applicable to Term Deposit.\n- In case of death of account holder, the nominee/legal heirs can withdraw the deposit any time before or after maturity.\n- In case of death of first account holder in joint account, the other holder is entitled to withdraw the deposit before its maturity. The Bank shall pay interest at the rate applicable for the period deposit has run without any penalty\n- Last Updated On : Friday, 07-01-2022",
+  "source": "https://sbi.bank.in/web/yono/tax-saver-fixed-deposit",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-govt-schemes-senior-citizens-1",
+  "title": "Senior Citizens Savings Scheme — Features (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "govt_employee",
+   "individual",
+   "senior_citizen"
+  ],
+  "tags": [
+   "banking",
+   "citizens",
+   "deposits",
+   "govt",
+   "investments",
+   "personal",
+   "savings",
+   "scheme",
+   "schemes",
+   "senior"
+  ],
+  "body": "Features:\n- The account shall be opened with a minimum deposit of one thousand rupees or any sum in multiple of one thousand rupees not exceeding Rupees Rs 30 Lakhs w.e.f. 01.04.2023\n- The depositor may extend the account for a further period of three years after the maturity period of five years.\n- The deposit made under these rules shall bear interest as directed by Govt of India from time to time quarterly. At present it is 8.20% per annum with effect from 01.04.2023.\n- If the interest payable every quarter is not claimed by an account holder, such interest shall not earn additional interest.\n- The whole amount of deposit in a joint account shall be attributable to the first account holder only.\n- Both the spouses can open single account and joint accounts with each other.\n- The depositor may nominate a person or more than one person.\n- Nomination made by the depositor can be cancelled or varied.\n- The deposit made at the time of opening of the account shall be paid on or after the expiry of five years or after the expiry of eight years where the account was extended from the date of the opening of the account.\n- Multiple withdrawals from an account shall not be permitted.",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/govt-schemes/senior-citizens-savings-scheme",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-govt-schemes-senior-citizens-2",
+  "title": "Senior Citizens Savings Scheme — Eligibility (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "govt_employee",
+   "individual",
+   "senior_citizen"
+  ],
+  "tags": [
+   "banking",
+   "citizens",
+   "deposits",
+   "govt",
+   "investments",
+   "personal",
+   "savings",
+   "scheme",
+   "schemes",
+   "senior"
+  ],
+  "body": "Eligibility:\n- An individual may open an account in individual capacity, or jointly with spouse.\n- NRI's & Hindu Undivided Family are not eligible to open an account under these rules.\n- An individual who has attained the age of 60 years and above.\n- who has attained the age of 55 years or more but less than 60 years and who has retired on superannuation or otherwise on the date of opening an account.\n- The retired personnel of Defence Services attaining the age of fifty years.\nPremature closure of Account:\n- Premature Payment Permitted at any time after opening the account but with penalty.\n- Last Updated On : Saturday, 07-02-2026",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/govt-schemes/senior-citizens-savings-scheme",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-deposits-recurring-deposit-1",
+  "title": "Recurring Deposit — Recurring Deposit - Personal Banking (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "banking",
+   "deposit",
+   "deposits",
+   "investments",
+   "personal",
+   "recurring"
+  ],
+  "body": "Recurring Deposit - Personal Banking:\n- Recurring Deposit scheme provides an opportunity to build up savings through regular monthly deposit of fixed sum over a period and have sufficient funds to achieve specific financial goals at the end of specific period.\nFeatures:\n- Period of deposit Minimum - 12 months, Maximum - 120 months\n- Minimum deposit amount is Rs. 100/- per month (thereafter in multiples of Rs. 10/-)\n- Penalty is charged on delayed payment of instalments.\n- In case six consecutive instalments are not received, the account shall prematurely be closed, and balance paid to the account holder.\n- Credit Proceeds to Savings Bank / Current Account\nPremature Closer ::\n- a) If payment amount is up to ₹.5.00 lacs (Principal) the penalty for premature withdrawal will be 0.50% (all tenors).\n- b) If payment amount is above ₹.5.00 lacs (Principal), applicable penalty will be 1% (all tenors). Interest Rate shall be 0.50% or 1% below the rate of interest applicable at the time of opening of deposits, for the period deposit remained with the Bank. However, no interest will be paid on deposits which remain for a period less than 7 days.",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/deposits/recurring-deposit",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-deposits-recurring-deposit-2",
+  "title": "Recurring Deposit — Account in default (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "banking",
+   "deposit",
+   "deposits",
+   "investments",
+   "personal",
+   "recurring"
+  ],
+  "body": "Account in default:\n- The penalty for delayed payment of instalments are:\n- ₹ 1.50 for every ₹ 100 per month for RD tenor of 5 years or less.\n- ₹ 2.00 for every ₹ 100/- per month for RD tenor of more than 5 years. (Rates are subject to change from time to time) Penalty when applied shall not exceed the interest paid to the depositor\nService Charge:\n- A service charge of ₹10/- is levied on RD accounts paid out on or after date of maturity, where in there is default in payment of three or more consecutive instalments and account has not been regularized.\nTerms and Condition:\n- Bank also sends intimation to customers by way of SMS calling for instructions on disposal of maturity proceeds.\n- Nomination available in favour of individual only.\n- Rate of Interest as applicable to Term Deposits for Public and Senior Citizens.\n- Last Updated On : Thursday, 30-04-2026",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/deposits/recurring-deposit",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-deposits-recurring-deposit-3",
+  "title": "Recurring Deposit — 8.45% p.a. (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "banking",
+   "deposit",
+   "deposits",
+   "investments",
+   "personal",
+   "recurring"
+  ],
+  "body": "8.45% p.a.:\n- Har Ghar Lakhpati (New Variant of Recurring Deposit Scheme)\n- ‘SBI Patrons’ : Term Deposit Scheme for Super Senior Citizens\n- SBI Green Rupee Term Deposit (SGRTD)\n- SBI Tax Savings Scheme, 2006\n- Motor Accident Claims Annuity (Term) Deposit Account (MACAD)\n- NON – CALLABLE TERM DEPOSIT - BULK (NCD-B)\n- NON-CALLABLE TERM DEPOSIT - RETAIL (NCD-R)",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/deposits/recurring-deposit",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nro-tax-saving-scheme-1",
+  "title": "Avail of Tax Benefits with SBI NRO Tax Saving Scheme — Features of NRO Tax Saving Scheme (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "accounts",
+   "nri",
+   "nro",
+   "saving",
+   "scheme",
+   "tax"
+  ],
+  "body": "Features of NRO Tax Saving Scheme:\n- To avail the tax benefits under section 80C of Income Tax Act, 1961.\n- For TDR / STDR - 5 years only\n- Please click here for NRO Fixed Deposits Interest Rates (TDR / STDR)\n- Loan against SBI TSS-NRO deposits not available.\n- The term deposit cannot be pledged to secure loan or as security for any other fund / non-fund asset.\nEligibility of NRO Tax Saving Scheme:\n- NRI/PIO/OCI customers, having Income Tax Permanent Account Number (PAN)\n- Minors are not eligible to open account in their single name, however, they can be second account holder along with an adult as primary account holder.\nPermissible Credits:\n- Transfer from NRO / NRE Savings Bank account\n- Fresh remittance from abroad through banking channel\n- Personal cheques drawn on foreign account\n- Proceeds of Foreign Currency Notes / Travelers cheques tendered, while visiting India. Amounts in excess of USD 5000 (or equivalent) in currency or USD 10,000/- (or equivalent) in Travelers cheques should be accompanied by a Currency Declaration Form (funds will be converted into NRO funds)",
+  "source": "https://sbi.bank.in/web/nri/accounts/nro-tax-saving-scheme",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nro-tax-saving-scheme-2",
+  "title": "Avail of Tax Benefits with SBI NRO Tax Saving Scheme — Term Deposits (TDR) (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "nri"
+  ],
+  "tags": [
+   "accounts",
+   "nri",
+   "nro",
+   "saving",
+   "scheme",
+   "tax"
+  ],
+  "body": "Term Deposits (TDR):\n- Interest is paid quarterly on Term Deposit Receipts (TDRs). It will be credited to the NRO Savings Bank / Current account as per request of the customer.\n- Minimum Deposit: Rs. 10,000/- & in multiples of 1,000s.\n- Maximum Deposit: Rs. 150,000/- per Financial Year.\n- Principal & interest amount are repatriable, subject to overall ceiling of USD 1 million or equivalent in a financial year\n- On maturity the deposit will be credited back to NRO a/c or renewed into 5 years regular NRO fixed deposit product.\nSpecial Term Deposits (STDR):\n- Interest gets compounded every quarter. It is paid on maturity with the Principal.\n- Minimum Deposit: Rs. 10,000/- & in multiples of 1,000s.\n- Maximum Deposit: Rs. 150,000/- per Financial Year.\n- Principal & interest amount are repatriable, subject to overall ceiling of USD 1 million or equivalent in a financial year\n- On maturity, the principle and interest will be credited to NRO a/c or renewed into 5 years regular NRO fixed deposit product.",
+  "source": "https://sbi.bank.in/web/nri/accounts/nro-tax-saving-scheme",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nro-tax-saving-scheme-3",
+  "title": "Avail of Tax Benefits with SBI NRO Tax Saving Scheme — Tax Implications (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "nri"
+  ],
+  "tags": [
+   "accounts",
+   "nri",
+   "nro",
+   "saving",
+   "scheme",
+   "tax"
+  ],
+  "body": "Tax Implications:\n- Income Tax as per following will be deducted at source on interest earned in the NRO accounts:\n- If interest income is less than or equal to Rs. 1 crore: 30.90%\n- If interest income is more than Rs. 1 crore: 34.608%\n- TDS on NRO deposits will be deducted on maturity or on accrual basis annually, whichever occurs first.\n- In case, depositor is resident of any of those countries with whom India has entered DTAA (Double Taxation Avoidance Agreement), the tax will be deducted as per DTAA agreed between India and the respective country. Please click here for list of DTAA countries and corresponding TDS rates. DTAA benefit can be availed by submitting following three documents:\n- 1. Tax Residency Certificate issued by the revenue authorities of your home country\n- 2. Self-declaration (please click here to download the standard format)\n- 3. Form No. 10F (please click here to download the standard format)",
+  "source": "https://sbi.bank.in/web/nri/accounts/nro-tax-saving-scheme",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nro-tax-saving-scheme-4",
+  "title": "Avail of Tax Benefits with SBI NRO Tax Saving Scheme — Joint Account With Residents (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "nri"
+  ],
+  "tags": [
+   "accounts",
+   "nri",
+   "nro",
+   "saving",
+   "scheme",
+   "tax"
+  ],
+  "body": "Joint Account With Residents:\n- NRI/PIO/OCI customers are permitted to open and maintain their NRO accounts with their resident relative(s) (as mentioned below) as a joint holder on “Former or Survivor” basis (NRI/PIO/OCI being the former);\n- (i) they are members of a Hindu Undivided Family;\n- (ii) they are husband and wife; or\n- 1) Father (Provided that the term “Father” includes step-father)\n- 2) Mother (Provided that the term “Mother” includes step-mother)\n- 3) Son (Provided that the term “Son” includes step-son)\n- 4) Son’s wife\n- 5) Daughter\n- 6) Daughter’s husband\n- 7) Brother (Provided that the term “Brother” includes step-brother)\n- 8) Sister (Provided that the term “Sister” includes step-sister\n- Last Updated On : Thursday, 12-09-2024",
+  "source": "https://sbi.bank.in/web/nri/accounts/nro-tax-saving-scheme",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-ppf-account-opening-2",
+  "title": "PPF Account Opening — Product Features (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "account",
+   "opening",
+   "ppf",
+   "yono"
+  ],
+  "body": "Product Features:\n- Individuals in their own name can open PPF account using YONO App.\n- Minimum: Rs. 500/- per annum and subsequent deposits in multiples of Rs.50/-\n- Maximum: Rs.1,50,000/- per annum inclusive of the deposits made in his own account and in the account opened on behalf of the minor.\n- The deposit in the account may be made in the account in one lump sum or in instalments, during a year.\n- Original duration of the account is of fifteen years from the end of the financial year in which the account is opened. PPF account holder on the expiry of fifteen years from the end of the year in which the account was opened, may extend his account for a further block period of five years. There is no restriction on number of such extensions. The option of extension of account shall be available to the customer before expiry of one year from the maturity of the account.\n- Account can be discontinued any time but repayment of subscription along with interest will be done only after 15 years i.e. date of maturity of the PPF account.\n- After maturity, the customer is allowed withdrawal of the entire balance along with due interest up to the last day of the month preceding the month in which the account is closed.\n- A discontinued account may be revived during its maturity period on payment of a fee of fifty rupees for each year of default along with arrears of minimum deposit of five hundred rupees for each year of default.\n- The facility of loan or partial withdrawal is not allowed in any discontinued account.\n- PPF Account can be transferred to any branch of SBI for convenience of operations.\n- The rate of interest is determined by Central Govt. on quarterly basis, presently, 7.10% per annum (w.e.f. 01.04.2020-Compounded annually).\n- Interest is credited in account on",
+  "source": "https://sbi.bank.in/web/yono/ppf-account-opening",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-ppf-account-opening-3",
+  "title": "PPF Account Opening — Prerequisites (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "account",
+   "opening",
+   "ppf",
+   "yono"
+  ],
+  "body": "Prerequisites:\n- The app version of YONO can be accessed through mobile (smartphones). The ‘YONO’ mobile application is available on Goggle Play Store and iOS Apple App Store.\n- Customer to login to YONO App through his/her credentials and Navigate to “My Investments section” >> “PPF Account.\nEligibility:\n- Resident Indians above 18 years of age, existing to Bank (ETB) customers registered on YONO. Joint Accounts are not allowed.\n- Customer must be KYC compliant with no existing PPF account.",
+  "source": "https://sbi.bank.in/web/yono/ppf-account-opening",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-ppf-account-opening-4",
+  "title": "PPF Account Opening — How to open Account? (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "account",
+   "opening",
+   "ppf",
+   "yono"
+  ],
+  "body": "How to open Account?:\n- Name and address details (non-editable) are prepopulated and are non-editable.\n- Select Home Branch/Other Branch to open PPF Account. By default CIF home branch will be shown, however, customer will have option to select other branch using GPS or entering location/branch code.\n- Fill in nominee details (Maximum 4 nominees allowed).\n- Option to put standing instruction. (recommended)\n- Review and confirm all the data entered and accept terms and conditions by entering OTP sent on registered mobile number in Bank records.\n- PPF account is generated and funding can be done immediately.\n- Scan the QR code to open your PPF account now\n- QR Code of YONO APP to be provided at the end",
+  "source": "https://sbi.bank.in/web/yono/ppf-account-opening",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-ppf-account-opening-5",
+  "title": "PPF Account Opening — Frequently Asked Questions (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "account",
+   "opening",
+   "ppf",
+   "yono"
+  ],
+  "body": "Frequently Asked Questions:\n- The process is available for customers who are major in age.\n- No, only a resident citizen of India is eligible to open PPF account\n- No, the process is available for singly operated accounts only.\n- Process will be available from 8 am to 8 pm only.\n- Customer should be resident Indian, KYC compliant and KYC not due for renewal. There should not be any existing PPF account of the customer. Aadhar and PAN is mandatory.\n- email address is not mandatory for this account. PAN is mandatory to open this account.\n- The product is as per Government Savings Promotion General Rules,2018. All the rules and regulations as applicable for the above rules will apply to these accounts also.\n- * Customers may call on a Customer Care Number of SBI Contact Centre 1800 1234 (Toll free) or 1800 425 3800 (Toll free) or 1800112211 or 1800 2100 (toll free) or +91-80-26599990 (chargeable) regarding any information, feedback, query or complaint.\n- Last Updated On : Wednesday, 03-07-2024",
+  "source": "https://sbi.bank.in/web/yono/ppf-account-opening",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-govt-schemes-sukanya-samridd-1",
+  "title": "Sukanya Samriddhi Yojana — Sukanya Samriddhi Yojana - Personal Banking (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "govt_employee",
+   "individual"
+  ],
+  "tags": [
+   "banking",
+   "deposits",
+   "govt",
+   "investments",
+   "personal",
+   "samriddhi",
+   "schemes",
+   "sukanya",
+   "yojana"
+  ],
+  "body": "Sukanya Samriddhi Yojana - Personal Banking:\n- Sukanya Samriddhi Account Scheme,2019 : Facility Available At All Our Branches\n- Ministry of Finance (Department of Economic Affairs) vide their E-Gazette Notification dated 12th Dec,2019,G.S.R. 912(E),has notified that Central Govt. rescinds the Sukanya Samriddhi Account Rules,2016 published vide G.S.R.323(E) dated 18th March,2016 with immediate effect.Further, Ministry of Finance (Department of Economic Affairs) vide their E-Gazette Notification dated 12th Dec,2019, G.S.R. 914(E), has notified the scheme called the Sukanya Samriddhi Account Scheme,2019",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/govt-schemes/sukanya-samriddhi-yojana",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-govt-schemes-sukanya-samridd-2",
+  "title": "Sukanya Samriddhi Yojana — Features (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "govt_employee",
+   "individual"
+  ],
+  "tags": [
+   "banking",
+   "deposits",
+   "govt",
+   "investments",
+   "personal",
+   "samriddhi",
+   "schemes",
+   "sukanya",
+   "yojana"
+  ],
+  "body": "Features:\n- Transfer/ online transfers through internet Banking\n- To promote the welfare of Girl Child\n- A natural/ legal guardian on behalf of a girl child\n- Upto two girl children or three in case of twin girls as second birth or the first birth itself results in three girl children\n- Min.250 of initial deposit with multiple of one Fifty rupees thereafter with annual ceiling of Rs.150000 in a financial year\n- Tenure of the Deposit is 21 years from the date of opening of the account\n- Maximum period upto which deposits can be made 15 years from the date of opening of the account.\n- As notified by the GOI, compounded annually with option for monthly interest pay-outs to be calculated on balance in completed thousands. (Current rate 8.20% from 01.01.2024 to 31.03.2024)\n- As applicable under section 80C of the IT Act, 1961. In the latest Finance Bill, the scheme has been extended Triple exempt benefits i.e. there will be no tax on the amount invested, amount earned as interest and amount withdrawn.\n- Irregular Payment/ Revival of account by payment of penalty of Rs.50 per year along with the minimum specified amount per year",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/govt-schemes/sukanya-samriddhi-yojana",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-govt-schemes-sukanya-samridd-3",
+  "title": "Sukanya Samriddhi Yojana — Others (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "govt_employee",
+   "individual"
+  ],
+  "tags": [
+   "banking",
+   "deposits",
+   "govt",
+   "investments",
+   "personal",
+   "samriddhi",
+   "schemes",
+   "sukanya",
+   "yojana"
+  ],
+  "body": "Others:\n- SIP : Standing Instructions can be given either at the Branch or set through Internet Banking for automatic credit to Sukanya Samriddhi Account .\n- Withdrawal : 50% of the balance lying in the account as at the end of previous financial year for the purpose of education, marriage after attaining the age of 18 years\n- NOTE : As this is a Govt. of India scheme, customers are advised to visit www.nsiindia.gov.in for latest instructions/ modification in the scheme.\nTerms And Conditions:\n- Allowed in the event of death of the depositor or in cases of extreme compassionate grounds such as medical support in life threatening diseases to be authorized by an order by the Central Government.\n- Last Updated On : Saturday, 07-02-2026",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/govt-schemes/sukanya-samriddhi-yojana",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-nps-for-nri-s-1",
+  "title": "Secure Your Retirement with SBI NRI National Pension Scheme — National Pension System for NRIs (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "individual",
+   "nri",
+   "senior_citizen"
+  ],
+  "tags": [
+   "for",
+   "nps",
+   "nri"
+  ],
+  "body": "National Pension System for NRIs:\n- National Pension System (NPS) is a defined contribution pension system introduced by the Government of India as a part of pension sector reforms, with an objective to provide social security to all citizens of India. It is administered and regulated by PFRDA.",
+  "source": "https://sbi.bank.in/web/nri/nps-for-nri-s",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-nps-for-nri-s-2",
+  "title": "Secure Your Retirement with SBI NRI National Pension Scheme — Features of National Pension System for NRI (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "nri",
+   "senior_citizen"
+  ],
+  "tags": [
+   "for",
+   "nps",
+   "nri"
+  ],
+  "body": "Features of National Pension System for NRI:\n- Tier I – Pension account (Mandatory A/C - Tax benefit available)\n- Tier II – NRIs are not eligible\n- Tier I – Rs.500\n- Minimum total contribution in a year - Rs.1,000 (Min. amount per contribution Rs.500)\n- A partial withdrawal of accumulated pension wealth, not exceeding 25% of the employee contributions, after a lock in period of 3 years.\n- Allowed to withdraw only a maximum of three (3) times during the entire tenure subject to conditions prescribed by the Regulator.\n- Min. 40% of the corpus needs to be invested in Annuity System\n- 60% of the corpus can be commuted/withdrawn in lump sum/ staggered anytime up to age of 75 yrs.; 40% of total corpus withdrawn is tax free\n- If the accumulated corpus is less than ₹5 lakhs, the entire corpus is paid as lumpsum to the subscriber\n- 20% of the corpus can be withdrawn in lump sum\n- 80% of the corpus will be invested in a ‘Annuity System’\n- If the accumulated corpus is less than ₹2.5 lakh, the entire corpus is paid as lumpsum to the subscriber.\nEligibility for NRI NPS account:\n- Age: Individuals aged between 18-70 years\n- Covered under any pension System: Eligible to subscribe",
+  "source": "https://sbi.bank.in/web/nri/nps-for-nri-s",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-nps-for-nri-s-3",
+  "title": "Secure Your Retirement with SBI NRI National Pension Scheme — Benefits of investing in NPS for securing Post Retirement Life (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "nri",
+   "senior_citizen"
+  ],
+  "tags": [
+   "for",
+   "nps",
+   "nri"
+  ],
+  "body": "Benefits of investing in NPS for securing Post Retirement Life:\n- i. Tax deduction u/s 80CCE for investments (10% of Basic & DA) within overall limit of Rs. 1.50 lacs.\n- ii.Exclusive tax savings provision: Tax deduction u/s 80CCD (1B) on contribution of Rs.50,000\n- Tax deduction up to 10% of salary (Basic + DA) u/s 80CCD (2) subject to an aggregate limit of ₹7.5 lakh\n- 2. Low Cost – A very low-cost product with Fund Management Charges of 0.01%.\n- 3. Superior returns – Attractive market linked returns\n- 4. Flexibility of Investments – Subscriber may select a Pension Fund Manager (PFM) of their choice. Subscriber is allowed to change PFM once during a Financial Year. Subscribers may also define their asset allocation, which may be changed four times in a given Financial Year.\n- 5. Portability – Portable across jobs and geographies.\n- 6. Online Access to NPS account – 24x7x365 through Web & Mobile App of Central Recordkeeping Agency (CRA)\n- 7. One-time shift to NPS - Existing corpus under Superannuation can one-time be transferred to NPS without any Tax Incidence.\n- 8. Continuation in NPS scheme post retirement – Provision to contribute till 70 years or to defer withdrawal up to the age of 75 years.\n- 9. Complete withdrawal for corpus less than Rs.5 lacs - In case total accumulated corpus is less than Rs. 5 Lacs on attaining the age of 60 or later, subscriber may withdraw entire corpus.",
+  "source": "https://sbi.bank.in/web/nri/nps-for-nri-s",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-nps-for-nri-s-4",
+  "title": "Secure Your Retirement with SBI NRI National Pension Scheme — How to Subscribe National Pension System for NRI (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "nri",
+   "senior_citizen"
+  ],
+  "tags": [
+   "for",
+   "nps",
+   "nri"
+  ],
+  "body": "How to Subscribe National Pension System for NRI:\n- Subscribers can apply NPS for NRI through the below mentioned routes:\n- Online Mode: Subscribers can apply for NPS account online. Desirous subscriber may visit www.onlinesbi.sbi and click on ‘NPS Registration’, which is available under ‘e-Services’ menu.\n- Offline Mode: Subscriber desirous to join NPS (National Pension System) for NRI can visit nearest registered State Bank of India branch for NPS and submit Registration Form & NPS Contribution Instruction Slip (NCIS) along with self-attested KYC documents.\n- Click to download the following forms:\n- Subscriber Registration Form (CSRF) for Retail Individual & Corporate\n- Annexure I to CSRF (Tier II details)\n- Annexure II to CSRF (Additional request details)\n- Annexure III to CSRF (Additional nomination form)\n- Registered branch list for NPS business is available at ‘POP-SP locations’ menu under ‘Quick Links’ at npscra.nsdl.co.in\n- Subscribers can contribute for NPS through the below mentioned routes:\n- Online Mode: Subscriber may visit www.onlinesbi.sbi and click on ‘NPS Contribution’, which is available under ‘Payments/ Transfers’ menu.\n- Offline Mode: Subscriber may visit nearest registered State Bank of India branch for NPS and submit NPS Contribution Instruction Slip (NCIS) along with the contribution amount.\n- Standing Instruction (SI) functionality is available to average cost of purchase just like Systematic Investment Plan (SIP) facility in Mutual Funds. Interested subscribers can give SI/ Auto Debit instructions for processing their monthly contributions either online through ‘NPS Contribution’ menu available at www.onlinesbi.sbi or by submitting physical request form to a registered Bank branch for NPS account for NRI. SI request form may be downloaded by cli",
+  "source": "https://sbi.bank.in/web/nri/nps-for-nri-s",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-accounts-saving-account-basic-savings-bank-deposi-1",
+  "title": "Basic Savings Bank Deposit Account — Basic Savings Bank Deposit Account - Personal Banking (SBI)",
+  "bank": "SBI",
+  "category": "deposit",
+  "segments": [
+   "low_income"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "bank",
+   "banking",
+   "basic",
+   "deposit",
+   "personal",
+   "saving",
+   "savings"
+  ],
+  "body": "Basic Savings Bank Deposit Account - Personal Banking:\n- Basic Savings Bank Deposit (BSBD) Account is designed as a savings account to provide affordable banking facilities to the public at large. The account has basic minimum facilities, free of charge, without any requirement of minimum balance to be maintained in such an account.\nEligibility:\n- All individuals having valid KYC documents and not having any BSBD account in any Bank are eligible to open BSBD Account. Existing BSBD account holders are not eligible to open another BSBD account.\nKYC Requirement:\n- BSBD account can be opened at Branch or through Business Correspondent channel (Customer service points) with Officially Valid Documents for KYC (Know your customer guidelines). However, the account opening at CSPs (Customer service points) is carried out through Aadhaar based e-KYC process only.",
+  "source": "https://sbi.bank.in/web/personal-banking/accounts/saving-account/basic-savings-bank-deposit-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-accounts-saving-account-basic-savings-bank-deposi-2",
+  "title": "Basic Savings Bank Deposit Account — Features (SBI)",
+  "bank": "SBI",
+  "category": "deposit",
+  "segments": [
+   "individual",
+   "low_income"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "bank",
+   "banking",
+   "basic",
+   "deposit",
+   "personal",
+   "saving",
+   "savings"
+  ],
+  "body": "Features:\n- The undermentioned facilities are offered free of charge for BSBD a/c:\n- Receipt of money through any electronic channel or deposit / collection of cheques.\n- No limit on number and value of deposits that can be made in a month.\n- RuPay ATM-cum-Debit card, Basic (PMJDY) variant, will be issued free of cost and no annual maintenance charge will be applied on Basic Rupay Card variant.\n- Cheque book with minimum 25 cheque leaves per year *\n- Internet and mobile banking facility through YONO application*\n- Passbook or monthly statement of account in lieu of passbook\n- Issuance of a continuation passbook, on exhaustion of the pages in the previous passbook.\n- Four cash withdrawals, through any mode (Branch, ATM, BC agent, etc.), in a month.\n- Last Updated On : Thursday, 29-10-2026\n8.45% p.a.:\n- Basic Saving Bank Deposit Account Branch Channel\n- Basic Savings Bank Deposit Small Account",
+  "source": "https://sbi.bank.in/web/personal-banking/accounts/saving-account/basic-savings-bank-deposit-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-sme-sme-government-schemes-pmmy-1",
+  "title": "PMMY — Pradhan Mantri MUDRA Yojana (PMMY) (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual",
+   "msme"
+  ],
+  "tags": [
+   "business",
+   "government",
+   "pmmy",
+   "schemes",
+   "sme"
+  ],
+  "body": "Pradhan Mantri MUDRA Yojana (PMMY):\n- Pradhan Mantri MUDRA Yojana (PMMY) is a scheme launched by the Hon’ble Prime Minister on April 8, 2015 for providing loans upto 10 lakh to the non-corporate, non-farm small/micro enterprises. These loans are classified as MUDRA loans under PMMY. These loans are given by Commercial Banks, RRBs, Small Finance Banks, Cooperative Banks, MFIs and NBFCs. The borrower can approach any of the lending institutions mentioned above or can apply online through JanSamarth portal ( www.Jansamarth.in ). Under the aegis of PMMY, MUDRA has created three products namely 'Shishu', 'Kishore' and 'Tarun' to signify the stage of growth / development and funding needs of the beneficiary micro unit / entrepreneur and also provide a reference point for the next phase of graduation / growth.\n- Nature of Facility : Working Capital and Term Loan\n- Purpose : Business purpose, capacity expansion, modernization\n- Target Group : Business Enterprises in Manufacturing, Trading and Services sector including allied agricultural activities.\n- Maximum loan amount : Upto Rs 10 lacs\n- Loans upto Rs.50,000 are categorised as SHISHU\n- Loans from Rs.50,001 to Rs.500,000 are categorised as KISHORE\n- Loans from Rs.500,001/- to Rs.10,00,000/- are categorised as TARUN\n- Upto Rs. 50,000/- Nil\n- Rs. 50,001 to Rs. 10 lacs: 20%\n- Pricing : Competitive Pricing Linked to EBLR\n- TL/Dropline OD - below Rs. 5 lakh : Max. 5 years including maximum moratorium period of upto 6 months.\n- TL/Dropline OD - From Rs. 5 lakh to Rs. 10 lakh : Max. 7 years including maximum moratorium period of up to 12 months.\n- Nil for Shishu and Kishore to MSE Units\n- For Tarun: 0.50%(plus applicable tax) of Loan amount\n- Customers can login and apply for Mudra loans on following Bank specific URL. https://jansa",
+  "source": "https://sbi.bank.in/web/business/sme/sme-government-schemes/pmmy",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-sme-sme-government-schemes-pmmy-2",
+  "title": "PMMY — Other Conditions (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "msme",
+   "women"
+  ],
+  "tags": [
+   "business",
+   "government",
+   "pmmy",
+   "schemes",
+   "sme"
+  ],
+  "body": "Other Conditions:\n- The loans under Mudra Scheme are guaranteed by Credit Guarantee for Micro Units (CGFMU) and the same is provided through National Credit Guarantee Trustee Company (NCGTC).\n- The guarantee cover is available for five years and hence for advances granted under Mudra Scheme the maximum period is 60 months.\n- Leads are now available in Udyami Mitra Portal (www.udyamimitra.in). Site can be accessed by Branches with Username and Password\n- All Branches to issue MUDRA RuPay Card for all the eligible CC accounts...\nSuccess Stories:\n- MUDRA SCHEME DESI TOYS SUCCESS STORY\n- MUDRA SCHEME ART INNOVATION SUCCESS STORY\n- Last Updated On : Wednesday, 03-12-2025\n8.45% p.a.:\n- Prime Minister Employment Generation Programme (PMEGP)\n- Credit Guarantee Fund Trust For Micro And Small Enterprises (CGTMSE)\n- Micro Credit Card- Credit Card to Micro Enterprises",
+  "source": "https://sbi.bank.in/web/business/sme/sme-government-schemes/pmmy",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-sme-sme-government-schemes-pmegp-1",
+  "title": "PMEGP — Objective (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual",
+   "msme"
+  ],
+  "tags": [
+   "business",
+   "government",
+   "pmegp",
+   "schemes",
+   "sme"
+  ],
+  "body": "Objective:\n- To generate employment opportunities in rural as well as urban areas of the country through setting up of new self-employment ventures/projects/micro enterprises.\n- To bring together widely dispersed traditional artisans/ rural and urban unemployed youth and give them self-employment opportunities to the extent possible, at their place.\n- To increase the wage-earning capacity of artisans and contribute to increase in the growth rate of rural and urban employment",
+  "source": "https://sbi.bank.in/web/business/sme/sme-government-schemes/pmegp",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-sme-sme-government-schemes-pmegp-2",
+  "title": "PMEGP — Scheme : PRIME MINISTER EMPLOYMENT GENERATION PROGRAMME(PMEGP) (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual",
+   "msme"
+  ],
+  "tags": [
+   "business",
+   "government",
+   "pmegp",
+   "schemes",
+   "sme"
+  ],
+  "body": "Scheme : PRIME MINISTER EMPLOYMENT GENERATION PROGRAMME(PMEGP):\n- Implementing Ministry : Khadi and Village Industries Commission (KVIC)\n- Portal : Online (PMEGP e- portal) www.kviconline.gov.in\n- Any individual, above 18 years of age.\n- For setting up of project costing above Rs. 10 lakh in the manufacturing sector and above Rs. 5 lakh in the Business/ Service sector, the beneficiaries should possess at least VIII standard pass educational qualification.\n- Assistance under the scheme is available only for new projects sanctioned specially under the PMEGP.\n- Self Help Groups (including those belonging to BPL provided that they have not availed benefits under any other Scheme) are also eligible for assistance under PMEGP.\n- Institutions registered under Societies Registration Act, 1860/Production Co-operative Societies/ charitable Trusts.\n- Existing units and units have already availed Government Subsidy under any other scheme of Government of India/ State Government are not eligible.\n- Purpose : For creation of employment.\n- Loan Quantum : The maximum cost of the project/unit admissible under manufacturing sector is Rs. 50 lacs. The maximum cost of the project/unit admissible under business/service sector is Rs. 20 lacs. (For upgradation of project under manufacturing Sector is Rs.1.00 crores).\n- Margin : General Category 10% (Special Category-5%-SC/ST/OBC etc.)\n- Repayment : 3 to 7 years\n- ROI : EBLR+3.25% (8.90%+3.25%, Presently effective rate is 12.15% p.a. w.e.f 15.02.2025)\n- Int Subvention : The subsidy ranging from 15% to 35% of project cost provided by Government of India through Khadi and Village Industries Boards (KVIC).\n- Credit Guarantee : CGFMU (Up to Rs.10 Lac)/ CGTMSE (Above Rs.10 Lac)\n- Last Updated On : Wednesday, 26-03-2025",
+  "source": "https://sbi.bank.in/web/business/sme/sme-government-schemes/pmegp",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-sme-sme-government-schemes-cgtmse-1",
+  "title": "CGTMSE — Credit Guarantee Scheme-I OF CGTMSE (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual",
+   "msme"
+  ],
+  "tags": [
+   "business",
+   "cgtmse",
+   "government",
+   "schemes",
+   "sme"
+  ],
+  "body": "Credit Guarantee Scheme-I OF CGTMSE:\n- Credit Guarantee Fund Scheme for Micro and Small Enterprises (CGS-I Scheme) came into force from August 1, 2000 covering eligible credit facilities extended by the Member Lending Institutions (MLIs) to eligible borrowers effective from June 1, 2000. The Scheme provides Guarantee cover for sanction of collateral free loans to the entrepreneurs by Banks/FIs.\n- Loans sanctioned to Micro and Small Enterprises (MSE) units, as per the definition of the Ministry of MSMEs engaged in all eligible activities including trading activity up to ₹10.00 crores.\n- Obtention of Udyam Registration Number is mandatory for obtaining Guarantee Cover.\n- Credit facilities not eligible under the Scheme :\n- (i) Any credit facility in respect of which risks are additionally covered under a scheme operated / administered by Deposit Insurance and Credit Guarantee Corporation or the Reserve Bank of India, to the extent they are so covered.\n- (ii) Any credit facility in respect of which risks are additionally covered by Government or by any general insurer or any other person or association of persons carrying on the business of insurance, guarantee or indemnity, to the extent they are so covered.\n- (iii) Any Credit facility shall not be eligible to covered under the Scheme if the said credit facility has been covered for guarantee through NCGTC Ltd.\n- (iv) Any credit facility, which does not conform to, or is in any way inconsistent with, the provisions of any law, or with any directives or instructions issued by the Central Government or the Reserve Bank of India, which may, for the time being, be in force.\n- (v) Any credit facility granted to any borrower, who has availed himself of any other credit facility covered under this scheme or under the schemes ment",
+  "source": "https://sbi.bank.in/web/business/sme/sme-government-schemes/cgtmse",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-sme-sme-government-schemes-cgtmse-2",
+  "title": "CGTMSE — (w.e.f. 01.04.2025) (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual",
+   "msme"
+  ],
+  "tags": [
+   "business",
+   "cgtmse",
+   "government",
+   "schemes",
+   "sme"
+  ],
+  "body": "(w.e.f. 01.04.2025):\n- 0-10 lacs\n- Above 10 lacs to 50 lacs\n- Above 50 lacs – 1 Cr\n- Above 1 Crore - 2 Crores\n- Above 2 Crores - 5 Crores\n- Above 5 Crores - 8 Crores\n- Above 8 Crores - 10 Crores\n- Click for Scheme Document of CGTMSE for full details of the Scheme.\n- Last Updated On : Friday, 08-08-2025\n8.45% p.a.:\n- Prime Minister Employment Generation Programme (PMEGP)\n- Credit Guarantee Fund Trust For Micro And Small Enterprises (CGTMSE)\n- Micro Credit Card- Credit Card to Micro Enterprises",
+  "source": "https://sbi.bank.in/web/business/sme/sme-government-schemes/cgtmse",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-nre-nro-account-1",
+  "title": "NRE NRO Account — NRE NRO Account - Yono (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "nre",
+   "nro",
+   "yono"
+  ],
+  "body": "NRE NRO Account - Yono:\n- Scan QR to Download YONO SBI\nFeatures:\n- Account can be opened with a zero balance.\n- Interest is paid quarterly on the daily balance in Savings Bank account. No interest is paid in the Current Account.\n- Principal & interest amount are fully repatriable for NRE Accounts.\n- Repatriation of balances from NRO account to Overseas account is permitted upto USD 1 million per financial year subject to submission of required documents.\n- Validity of Passport and Visa documents is more than 45 days. Visa/Work permit expiry date is not applicable for PIO.\n- Experience 24*7 banking access through internet banking\n- Facility of transfer of accounts through Internet Banking channel.\nEligibility:\n- Customer should not have any existing relationship with SBI.\n- New to Bank (NTB) customers above 18 years of age who are literate and able to sign uniformly.\n- Passport and Email ID is mandatory.\n- PAN is optional. If PAN is not provided, system generated Form 60 has to be signed by the customer.\n- Document to prove NRI/OCI status such as VISA, PIO/OCI card, valid document for seafarer etc.",
+  "source": "https://sbi.bank.in/web/yono/nre-nro-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-nre-nro-account-2",
+  "title": "NRE NRO Account — Prerequisites (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "nre",
+   "nro",
+   "yono"
+  ],
+  "body": "Prerequisites:\n- The app version of YONO can be accessed through mobile (smartphones). The ‘YONO’ mobile application is available on Goggle Play Store and iOS Apple App Store.\n- Customer wanting to open NRE/NRO account, should be a Non- Resident Indian, or PIO/OCI above 18 years in age, should have Passport, a valid mobile number and email ID and a document to prove the residential status.",
+  "source": "https://sbi.bank.in/web/yono/nre-nro-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-nre-nro-account-3",
+  "title": "NRE NRO Account — How to open NRI Account through YONO App? (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "nre",
+   "nro",
+   "yono"
+  ],
+  "body": "How to open NRI Account through YONO App?:\n- Click Open Savings account >> Open NRE/NRO Account\n- Enter Country Name, Mobile No with ISD code, Email id and click on submit >> Account opening – OTP verification : Enter Mobile OTP, Email OTP and click on Submit.\n- NRI Consent – confirm country of residence, agrees data sharing and consent clause.\n- Status Type –NRI/ PIO -> Click on Next.\n- Product Information will be displayed. Click on next.\n- Select Open Account via options – Branch Visit in India / Courier documents to GNC in India.\n- Enter Personal details, Additional Personal details, Passport and Visa Details, Current and Permanent Address details.\n- Additional details, Contact details, Educational Qualification, Religion, Category, Occupation, Nomination details, Services - select (Ex: SMS alerts, cheque book, Debit card, Taxation Details and address\n- Review details ,enter OTP for acceptance of ‘Terms and Conditions’\n- Send the documents to Global NRI Centre (GNC), Ernakulam: Customer needs to download and print the documents Account opening form (AOF) including Customer Information Sheet (CIS) Covering Letter, consent clause, form60 received in the email, sign it and get the AOF/KYC documents (Passport, VISA/ OCI card, Proof of overseas address) attested by Notary / Indian Embassy/ High Commission/ Foreign Office/ Representative Office / Court Magistrate/ Judge and forward it to GNC directly.\n- Visit a SBI Branch in India: Customer needs to visit the branch along with the original KYC documents for Verification within 30 days.\n- * Customer can track the status of the application in YONO App once application is submitted. Customer can resume the journey within 90 days after entering Mobile number and email ID and Year of birth.",
+  "source": "https://sbi.bank.in/web/yono/nre-nro-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-nre-nro-account-4",
+  "title": "NRE NRO Account — Frequently Asked Questions (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "nre",
+   "nro",
+   "yono"
+  ],
+  "body": "Frequently Asked Questions:\n- A) No. The process is presently available for customers who are major in age, literate and able to sign uniformly.\n- A) No, the process is presently available for singly operated accounts only.\n- A) Yes. Accounts opened through this process will be subject to second level scrutiny by bank officials.\n- A) Yes. Email address is mandatory for this account. PAN is not mandatory to open this account. Form 60 has to be obtained from the customer in case PAN is not submitted.\n- A) If customer chooses to send the documents to GNC, he/she will get the AOF/KYC documents attested by Notary / Indian Embassy/ High Commission/ Foreign Office/ Representative Office / Court Magistrate/ Judge and forward it to GNC directly. If customer chooses to visit Branch in India, KYC documents need to be verified with original by the Branch official before opening this account.\n- A) Charges for all services will be in accordance with extant service charges applicable to NRE/NRO saving/Current account.\n- A) Yes, there will be Debit Freeze for accounts opened end to end. These accounts will be activated after 2nd level scrutiny by Bank officials.\n- A) Customer is required to send the documents to GNC/ visit branch within 30 days of submitting the application in YONO App.\n- *Customers may call on a Customer Care Number of SBI Contact Centre 1800 1234 (Toll free) or 1800 425 3800 (Toll free) or 1800112211 or 1800 2100 (toll free) or +91-80-26599990 (chargeable) regarding any information, feedback, query or complaint.\n- Last Updated On : Tuesday, 06-02-2024",
+  "source": "https://sbi.bank.in/web/yono/nre-nro-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nre-salary-account-1",
+  "title": "NRE Salary Account — NRE Salary Account - NRI (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri",
+   "salaried"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "nre",
+   "nri",
+   "salary"
+  ],
+  "body": "NRE Salary Account - NRI:\n- For depositing monthly overseas earnings in Indian Rupees in India\n- Account can be opened either individually or jointly with other NRIs / PIOs / OCIs\n- Funds deposited in the account will be in the form of fresh remittances from overseas or transfer from other NRE / NRO / FCNR (B) account\n- Interest earned on NRE accounts is exempt from Indian Income tax\n- Additional benefits on NRI Home loan and NRI Car loan",
+  "source": "https://sbi.bank.in/web/nri/accounts/nre-salary-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nre-salary-account-2",
+  "title": "NRE Salary Account — Features & Benefits (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "nri",
+   "salaried"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "nre",
+   "nri",
+   "salary"
+  ],
+  "body": "Features & Benefits:\n- All features of normal NRE Savings Bank Account (please click here to view the features of normal NRE Savings Bank Account) will be applicable to NRE Savings Bank Account along with:\n- Please click here to view the applicable interest rate for NRE Salary Account\n- A. Waiver of the following service charges :-\n- For NEFT / RTGS transactions undertaken through INB\n- For issue of Multicity Cheque Books\n- For Annual Maintenance of Debit Card\n- For issuance of NRI Family Card\n- 50% of NRI Home Loan processing charges\n- B. Waiver of the following requirement while availing of NRI Car Loan:-\n- However, the account should be minimum 3 months old with continuous credit of salary in the account.\n- Having an NRI account with SBI for at least twelve months with minimum average balance of Rs. 50,000/- or opening of a new account with USD 5000/- or its equivalent as the initial deposit.",
+  "source": "https://sbi.bank.in/web/nri/accounts/nre-salary-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nre-salary-account-3",
+  "title": "NRE Salary Account — Eligibility Criteria (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "nri",
+   "salaried"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "nre",
+   "nri",
+   "salary"
+  ],
+  "body": "Eligibility Criteria:\n- If you are working for Indian employer and posted overseas or on ship: Account can be opened either before leaving India or after relocating overseas.\n- If you are working for an overseas employer and posted overseas or on ship: Account can be opened subject to following:\n- Minimum 10 NRE / NRO Salary Package accounts of employees of the same employer need to be opened in the first instance.\n- Copy of Employee Identity Card issued by the Employer\n- Bonafide / Authentic certificate or letter from HR / Letter from HR / Admin of the Employer",
+  "source": "https://sbi.bank.in/web/nri/accounts/nre-salary-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nre-salary-account-4",
+  "title": "NRE Salary Account — Procedure To Open An NRE Salary Account (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri",
+   "salaried"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "nre",
+   "nri",
+   "salary"
+  ],
+  "body": "Procedure To Open An NRE Salary Account:\n- Procedure to open an NRE Salary Account:\n- Please fill up the account opening application through any of the following modes:\n- Please click here to fill it online as per the process mentioned\n- Please click here to download the account opening application, fill it manually and send it to your preferred home branch in India along with the attested copies of proofs & documents for KYC compliance, selected in the application\n- Please fill and submit application along with proofs & documents for KYC compliance, selected in the application, by visiting a SBI branch in India or overseas\n- Last Updated On : Thursday, 11-07-2024",
+  "source": "https://sbi.bank.in/web/nri/accounts/nre-salary-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nro-account-1",
+  "title": "NRO Account — Features of Non-Resident Ordinary (NRO) Account (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "nri",
+   "nro"
+  ],
+  "body": "Features of Non-Resident Ordinary (NRO) Account:\n- To park India based current income in Rupees in India\n- Account can be opened either individually or jointly with other NRIs / PIOs / OCIs\n- Funds deposited in the account will be in the form of transfer from NRE / NRO / FCNR (B) accounts or fresh remittance from overseas\n- Account can be opened with resident Indians on \"former or survivor\" basis\n- Account can be withdrawn for making local payments in Rupees\n- Interest income is subject to deduction of tax at source @ 30.90%. In case, depositor is resident of any of those countries with whom India has a DTAA, the tax will be deducted as per DTAA (Double Taxation Avoidance Agreement) agreed between India and the respective country\n- Rupee loan available against NRO Deposits\n- Tenor Of Deposits For TDR: 7 days to 10 years\n- Tenor Of Deposits For STDR: 6 months to 10 years\n- Tenor Of Deposits For RD: 12 months to 10 years\n- Please click here for NRO Savings Bank Account Interest Rates\n- Please click here for NRO Deposits (TDR / STDR / RD) Interest Rates",
+  "source": "https://sbi.bank.in/web/nri/accounts/nro-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nro-account-2",
+  "title": "NRO Account — Eligibility For NRO Account Opening (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "nri",
+   "nro"
+  ],
+  "body": "Eligibility For NRO Account Opening:\n- Eligibility Conditions For Opening Of Resident Indian Or Nri Accounts\n- Foreign Currency Non-resident (Bank) {FCNR (B)} Accounts\n- Not-permitted 1\n- Permitted 2,7\n- Permitted 2\n- Permitted 2\n- Not-permitted 1\n- Permitted 2, 3, 7\n- Permitted 2, 3\n- Permitted 2, 3\n- Permitted in certain cases 1.1\n- Permitted 2, 3, 7\n- Permitted 2, 3\n- Permitted 2, 3\n- Foreign Nationals on employment in India\n- Permitted 3, 4\n- Not-permitted 4\n- Permitted 3, 5\n- Foreign Tourists on short visit to India\n- Permitted 3, 6\n- To know more about the NRO account details & benefits, visit our nearest branch. 1 However a joint account with Resident Indian (RI) who is a close relative can be opened subject to following conditions:\n- Mode of operation permitted is 'Either or Survivor' only\n- The RI will be the primary/first account holder in the joint account and NRI (PIO / OCI) will be the second applicant\n- 1.1 When OCI comes to India with an intention to stay for an indefinite period and stays more than 182 days, he/she loses the privileges available to NRIs/PIOs/OCIs. Such OCI is required re- designate / convert his/her NRE/NRO/FCNR Accounts to resident account, or NRE/FCNB account to RFC account as the case may be. Further, an OCI can open all types of accounts allowed to a Resident customer.\n- 2 A joint account with Resident Indian (RI) who is a close relative can also be opened subject to following conditions:\n- Mode of operation permitted is 'Former (NRI) or Survivor' only\n- The NRI (PIO / OCI) will be the primary/first account holder in the joint account and RI will be the second applicant\n- 3 Following conditions applicable:\n- Pakistani National will require a prior approval from RBI before opening the account.\n- Bangladesh National to have a valid vis",
+  "source": "https://sbi.bank.in/web/nri/accounts/nro-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nro-account-3",
+  "title": "NRO Account — Permissible Credits (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "nri",
+   "nro"
+  ],
+  "body": "Permissible Credits:\n- Transfer from another Resident Indian / NRE / FCNR (B) account\n- Transfer from another NRO account but only for payment of legitimate dues in India\n- Fresh remittance from abroad through banking channel\n- Personal cheques drawn on foreign account\n- Proceeds of Foreign Currency Notes / Travelers cheques tendered by NRI / PIO / OCI, while visiting India. Amounts in excess of USD 5000 (or equivalent) in currency or USD 10,000/- (or equivalent) in Travelers cheques should be accompanied by a Currency Declaration Form\n- Interest, dividend and maturity proceeds of investments made in India etc on non-repatriable basis",
+  "source": "https://sbi.bank.in/web/nri/accounts/nro-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nro-account-4",
+  "title": "NRO Account — Types Of NRO Accounts & Deposits (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "nri",
+   "nro"
+  ],
+  "body": "Types Of NRO Accounts & Deposits:\n- Account can be opened with a zero balance\n- It is preferable to fund the account upfront to avoid payment of charges for non-maintenance of Minimum Average Balance.\n- Interest is paid quarterly on the daily balance in Savings Bank account. No interest is paid in Current Account.\n- In General Branches: As per MAB (Minimum Average Balance) criteria\n- In Personal Banking Branches: Minimum total customer account/deposit balance should be Rs. 1 lakh for Metro / Urban areas and Rs. 50,000 for Semi-Urban / Rural areas\n- Balances in the account are partly repatriable subject to overall ceiling of USD 1 million or equivalent in a financial year\n- Interest is paid quarterly on Term Deposit Receipts (TDRs). It can be credited to the NRO Savings Bank account as per request of the customer.\n- In General Branches: Rs. 1000/-\n- In Personal Banking Branches: Minimum total customer account/deposit balance should be Rs. 1 lakh for Metro / Urban areas and Rs. 50,000 for Semi-Urban / Rural areas\n- Principal & interest amount are partly repatriable, subject to overall ceiling of USD 1 million or equivalent in a financial year\n- You can avail a loan/overdraft against your deposit\n- Automatic renewal on maturity for the same period but at the then prevailing rate of interest, if there are no instructions for renewal\n- Interest gets compounded every quarter. It is paid on maturity with the Principal.\n- In General Branches: Rs. 1000/-\n- In Personal Banking Branches: Minimum total customer account/deposit balance should be Rs. 1 lakh for Metro / Urban areas and Rs. 50,000 for Semi-Urban / Rural areas\n- Principal & interest amount are partly repatriable, subject to overall ceiling of USD 1 million or equivalent in a financial year\n- You can avail a loan/overdra",
+  "source": "https://sbi.bank.in/web/nri/accounts/nro-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nro-account-5",
+  "title": "NRO Account — Premature Withdrawals (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "nri",
+   "nro"
+  ],
+  "body": "Premature Withdrawals:\n- No interest is payable if the deposit is withdrawn before 7 days\n- Description Up to Rs.5.00 lacs / Penalty (All Tenors) - 0.50%\n- Description Above Rs.5.00 lacs but below Rs.1 Crore / Penalty (All Tenors) - 1%\n- The interest shall be 0.50% or 1% below the rate applicable at the time of Deposits for the period Deposit has remained with the Bank or 0.50% or 1% below the contracted rate, whichever is lower.\n- No interest is payable if the deposit is withdrawn before 7 days.\n- On pre-mature withdrawal of the deposit (after completion of 7 days), interest will be paid at applicable rate for the period the deposit has actually remained with the Bank or contracted rate less Premature Penalty of 1%, whichever is lower.",
+  "source": "https://sbi.bank.in/web/nri/accounts/nro-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nro-account-6",
+  "title": "NRO Account — Tax Implications (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "nri",
+   "nro"
+  ],
+  "body": "Tax Implications:\n- Income Tax as per following will be deducted at source on interest earned in the NRO accounts:\n- If interest income is less than or equal to Rs. 1 crore: 30.90%\n- If interest income is more than Rs. 1 crore: 34.608%\n- TDS on NRO deposits will be deducted on maturity or accrual basis annually, whichever occurs first.\n- In case, depositor is resident of any of those countries with whom India has a DTAA, the tax will be deducted as per DTAA (Double Taxation Avoidance Agreement) agreed between India and the respective country. Please click here for list of DTAA countries and corresponding TDS rates. DTAA benefit can be availed by submitting following three documents:\n- Tax Residency Certificate issued by the revenue authorities of your home country\n- Self-declaration (please click here to download the standard format)\n- Form No. 10F (please click here to download the standard format)",
+  "source": "https://sbi.bank.in/web/nri/accounts/nro-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nro-account-7",
+  "title": "NRO Account — Loans Against NRO Deposits (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "nri",
+   "nro"
+  ],
+  "body": "Loans Against NRO Deposits:\n- You can avail a loan in Indian rupees against the security of NRO TDR / STDR / RD deposits. The loan may be used to meet emergency financial requirements, to carry on business activities, for direct investment in India or for acquiring a flat / house in India.\n- You need not close the deposit prematurely, and can avail the loan at the branch where you maintain the deposit, as an overdraft or as a demand loan. Maximum loan of 90% of the face value of deposit including the interest accrued. The applicable interest rate on loan against Deposits is @ 1.00% over the rate paid on the relative deposit offered as security. For more information, please click here .\nFrom NRO account to overseas account -:\n- Repatriation up to USD 1 million or equivalent net of applicable taxes in a financial year is permitted, for bonafide purposes, subject to submission of necessary documents as applicable. You can post / courier or submit in a person a request letter for transfer of funds from NRO account to overseas account. click here here to download the standard request letter.",
+  "source": "https://sbi.bank.in/web/nri/accounts/nro-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nro-account-8",
+  "title": "NRO Account — From NRO account to NRE / FCNR (B) account - (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "nri",
+   "nro"
+  ],
+  "body": "From NRO account to NRE / FCNR (B) account -:\n- Transfer of funds from NRO to NRE account is permitted within the overall ceiling of USD 1 million or equivalent per financial year, subject to submission of necessary documents as applicable. You can post / courier or submit in a person a request letter for transfer of funds from NRO to NRE / FCNR (B) account. Please click here to download the standard request letter.\nProcedure To Open An NROAccount:\n- Please fill up the account opening application as per any of the following mode and send it to bank accordingly:\n- Please click here to fill and open NRO account online as per the process mentioned\n- Please click here to download the account opening application, fill it manually and send it to your preferred home branch in India along with the attested copies of proofs & documents selected for KYC in the application\n- Please fill and submit application along with proofs & documents selected for KYC in the application by visiting a SBI branch in India or overseas",
+  "source": "https://sbi.bank.in/web/nri/accounts/nro-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-nro-account-9",
+  "title": "NRO Account — Joint Account Of Non-residents With Residents (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "nri",
+   "nro"
+  ],
+  "body": "Joint Account Of Non-residents With Residents:\n- NRI/PIO/OCI customers are permitted to open and maintain their NRO accounts with their resident relative(s) (as mentioned below) as a joint holder on “Former or Survivor” basis (NRI/PIO/OCI being the former);\n- they are members of a Hindu Undivided Family;\n- they are husband and wife; or\n- Father (Provided that the term “Father” includes step-father)\n- Mother (Provided that the term “Mother” includes step-mother)\n- Son (Provided that the term “Son” includes step-son)\n- Brother (Provided that the term “Brother” includes step-brother)\n- Sister (Provided that the term “Sister” includes step-sister)\n- Last Updated On : Saturday, 07-02-2026",
+  "source": "https://sbi.bank.in/web/nri/accounts/nro-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-fcnrb-account-1",
+  "title": "Experience Hassle-Free Banking with SBI FCNR Bank Account — Features & Benefits of Foreign Currency Non-Resident (Bank) Account (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "fcnrb",
+   "nri"
+  ],
+  "body": "Features & Benefits of Foreign Currency Non-Resident (Bank) Account:\n- Minimum period of 1 year\n- Maximum period of 5 years\n- Please click here for FCNR (B) Deposits (TDR / STDR) Interest Rates\n- Tax Implications : Interest income is exempted from Indian income tax. However, on relocation back to India, tax is payable subject to person’s tax status.\n- Deposit is denominated in foreign currency and can be opened in USD, GBP, EURO, CAD, JPY, or AUD\n- Deposit can be opened either individually or jointly with other NRIs / PIOs / OCIs\n- Both principal and interest are payable in foreign currency. Hence, there is no exchange loss on principal and interest\n- Funds deposited in the account can be by way of fresh remittance from overseas or transfer from other NRE / FCNR (B) account or NRO account (subject to limit)\n- Interest earned on FCNR (B) deposits is exempted from Indian Income tax\n- Foreign currency loans and Rupee loan available against FCNR (B) deposits\n- FCNR(B) Account can be opened with close resident relatives on \"former or survivor\" basis\n- No interest is payable, if the deposit is withdrawn before one year\n- at the rate prevailing at the time of opening of related FCNR(B) deposit account for the period deposit has remained with the Bank. OR\n- at present interest rate for the period deposit has remained with the Bank. ( Whichever is lowest )\n- e.g if deposit is placed for 3 years and is prematurely withdrawn after 2 years, the rate applicable for the 2 to 3 years tenure at the time of placing deposit OR rate applicable for 3 years (contracted period) tenure at the time of making deposit OR the rate applicable for 2 to 3 years tenure on the date of premature withdrawal (whichever is lowest) shall be applied without levying any penalty.",
+  "source": "https://sbi.bank.in/web/nri/accounts/fcnrb-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-fcnrb-account-2",
+  "title": "Experience Hassle-Free Banking with SBI FCNR Bank Account — Eligibility For FCNR (B) Account Opening (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "fcnrb",
+   "nri"
+  ],
+  "body": "Eligibility For FCNR (B) Account Opening:\n- Please click here to know about the eligibility requirements for opening an FCNR (B) Account\nPermissible Credits:\n- Transfer from another NRE / FCNR (B) account\n- Transfer from another NRO account (subject to limit)\n- Fresh remittance from overseas through banking channel\n- Personal cheques drawn on foreign account\n- Proceeds of Foreign Currency Notes / Travelers cheques tendered by NRI / PIO / OCI, while visiting India. Amounts in excess of USD 5000 (or equivalent) in currency or USD 10,000/- (or equivalent) in Travelers cheques should be accompanied by a Currency Declaration Form",
+  "source": "https://sbi.bank.in/web/nri/accounts/fcnrb-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-fcnrb-account-3",
+  "title": "Experience Hassle-Free Banking with SBI FCNR Bank Account — Types of Foreign Currency Non-Resident (Bank) Account - FCNR (B) Account (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "fcnrb",
+   "nri"
+  ],
+  "body": "Types of Foreign Currency Non-Resident (Bank) Account - FCNR (B) Account:\n- Interest is paid at a frequency of 180 days from date of Term Deposit\n- Foreign Currency deposits of fixed tenure\n- Minimum Deposit of USD 1000, GBP 1000, EURO 1000, CAD 1000, JPY 100000 or AUD 1000\n- Principal & interest amount are fully repatriable\n- You can avail a loan/overdraft against your deposit\n- Automatic renewal on maturity for the same period but at the then prevailing rate of interest.\n- Enjoy higher returns, with interest both on your deposit and on the interest accrued i.e. interest gets compounded after every 180 days\n- Foreign Currency deposits of fixed tenure\n- Minimum Deposit of USD 1000, GBP 1000, EURO 1000, CAD 1000, JPY 100000 or AUD 1000\n- Principal & interest amount are fully repatriable\n- You can avail a loan/overdraft against your deposit\n- Automatic renewal on maturity for the same period but at the then prevailing rate of interest. 1",
+  "source": "https://sbi.bank.in/web/nri/accounts/fcnrb-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-fcnrb-account-4",
+  "title": "Experience Hassle-Free Banking with SBI FCNR Bank Account — Loans against FCNR (B) Account (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "fcnrb",
+   "nri"
+  ],
+  "body": "Loans against FCNR (B) Account:\n- You can avail a loan in Indian rupees or in Foreign Currency against the security of FCNR (B) TDR / STDR deposits.\n- You need not close the deposit prematurely, and can avail the loan at the branch where you maintain the deposit, as an overdraft or as a demand loan Maximum loan of 90% of the face value of deposit, and including the interest accrued on the deposit at an interest rate linked to the prevailing base rate, for loan in India rupee\n- For more information, please click here",
+  "source": "https://sbi.bank.in/web/nri/accounts/fcnrb-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-fcnrb-account-5",
+  "title": "Experience Hassle-Free Banking with SBI FCNR Bank Account — Funds transfer from FCNR (B) to overseas account (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "fcnrb",
+   "nri"
+  ],
+  "body": "Funds transfer from FCNR (B) to overseas account:\n- The funds held in FCNR (B) account are fully repatriable i.e. funds can be transferred to any overseas account. You can place a request for transfer of funds as per any of the following mode:\n- Through Internet Banking (INB): For placing outward remittance or funds transfer request (forex) favouring yourself or third party from your NRE Savings Bank account or NRE fixed deposit account or FCNR (B) account holders to any account overseas. For this, you have to first add a ‘beneficiary’ and then place a request for remittance in his/her favour. The ‘beneficiary’ is to be added only once and the details thereof will be stored in our system, thereby enabling you to send multiple remittances to him/her at any time subsequently.\n- Procedure to add beneficiary for remittance:\n- Please login to your INB account\n- Click on ‘ Profile ’ tab\n- Click on ‘ Outward Remittance Beneficiary for NRE / FCNR (B) Account’\n- Enter details of beneficiary and submit it after entering OTP sent on your registered mobile number\n- Procedure for placing the remittance request:\n- Please login to your INB account\n- Click on ‘ NRI Services’ appearing in the column on left hand side\n- Click on ‘ Outward Remittance from NRE / FCNR (B) Account’\n- Please select / enter request details and proceed accordingly\n- Through Branch: Please download a standard request letter by clicking on ‘ For outward remittance from NRE / FCNR (B) account ’ from ‘Download Forms’ and post / courier it your home branch. Please note that such request coming through email cannot be acted upon, due to security reasons.",
+  "source": "https://sbi.bank.in/web/nri/accounts/fcnrb-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-fcnrb-account-6",
+  "title": "Experience Hassle-Free Banking with SBI FCNR Bank Account — Procedure to open a FCNR (B) Account (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "fcnrb",
+   "nri"
+  ],
+  "body": "Procedure to open a FCNR (B) Account:\n- You can place a request for creating FCNR (B) deposit as per any of the following mode:\n- By sending fresh remittance from overseas: If you are sending fresh remittance from your overseas account for purpose of creating FCNR (B) deposit, then please mention the following message in the remittance message section along with the required details of creation of deposit:\n- Please create FCNR (B) deposit as per following details:\n- Please mention the currency in which deposit has to be created (USD / GBP / EURO / CAD / AUD / JPY)\n- Please mention the amount of deposit to be created\n- Please mention the tenor of deposit to be created\n- Please login to your INB account\n- Click on ‘NRI Services’ on left hand side column\n- Click on ‘Inward Remittance Disposal Request’\n- Please select / enter request details and click on Submit\n- Through Branch: You can post / courier or submit in a person a request letter for creation of deposit by debiting NRE or NRO account. Please click here to download the standard request letter.",
+  "source": "https://sbi.bank.in/web/nri/accounts/fcnrb-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-fcnrb-account-7",
+  "title": "Experience Hassle-Free Banking with SBI FCNR Bank Account — Joint account of Non- Residents with Residents (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "fcnrb",
+   "nri"
+  ],
+  "body": "Joint account of Non- Residents with Residents:\n- NRI/PIO/OCI customers are permitted to open and maintain their FCNR (B) accounts with their resident relative(s) (as mentioned below) as a joint holder on “Former or Survivor” basis (NRI/PIO/OCI being the former);\n- They are members of a Hindu Undivided Family;\n- They are husband and wife; or\n- Father (Provided that the term “Father” includes step-father)\n- Mother (Provided that the term “Mother” includes step-mother)\n- Son (Provided that the term “Son” includes step-son)\n- Brother (Provided that the term “Brother” includes step-brother)\n- Sister (Provided that the term “Sister” includes step-sister)",
+  "source": "https://sbi.bank.in/web/nri/accounts/fcnrb-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-fcnrb-account-8",
+  "title": "Experience Hassle-Free Banking with SBI FCNR Bank Account — Interest payable on deposit of deceased depositor: (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "fcnrb",
+   "nri"
+  ],
+  "body": "Interest payable on deposit of deceased depositor::\n- In terms of RBI Master Direction, interest on term deposits standing in the name(s) of a deceased FCNR (B) individual depositor or two or more joint depositors where one of the depositors has died, as under:\n- If paid on maturity of the deposit, interest shall be paid at the contracted rate;\n- If the deposit is claimed before the maturity date, interest shall be paid not at the contracted rate but at the rate applicable to the period for which the deposit remained with the bank and without charging penalty for pre-payment;\n- In case the depositor dies before the date of maturity of the deposit but the amount of the deposit is claimed after the date of maturity, interest shall be paid at the contracted rate till the date of maturity and simple interest at the applicable rate operative on the date of maturity for the period for which the deposit remained with the bank beyond the date of maturity.\n- In case of death of the depositor after the date of maturity of the deposit, the interest rate operative on the date of maturity in respect of Savings Bank deposits held under Resident Foreign Currency (RFC) Account Scheme shall be paid from the date of maturity till the date of payment. Interest shall be paid at notional rates while converting FCNR (B) Account into RFC / Resident Rupee Account even if the deposit has not completed the minimum maturity period. Interest shall be paid for period for which the deposit remained with the Bank.\n- In case the claimants are residents, the maturity proceeds shall be converted into Indian Rupees on the date of maturity and interest shall be paid for the subsequent period at the rate applicable to a domestic Term Deposit of similar maturity.\n- Last Updated On : Saturday, 05-04-2025",
+  "source": "https://sbi.bank.in/web/nri/accounts/fcnrb-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-investments-portfolio-investment-scheme-1",
+  "title": "Invest Smartly with SBI NRI Portfolio Investment Scheme (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "investment",
+   "investments",
+   "nri",
+   "portfolio",
+   "scheme"
+  ],
+  "body": "NRI Portfolio Investment Services:\n- You don't need to be in India to trade on the Indian stock exchange.\n- SBI's NRI Portfolio Investment Scheme (NRI PIS) Account enables you to buy and sell shares, debentures of Indian companies on the Indian Stock Market. Portfolio Investment Services are offered in selected branches of State Bank of India. The branch will grant you the permission to invest in stock market and all sale / purchase transactions will be routed through this branch. SBI also offers the added convenience of holding and trading in shares online, through its Demat Services.\n- Last Updated On : Friday, 13-12-2024",
+  "source": "https://sbi.bank.in/web/nri/investments/portfolio-investment-scheme",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-accounts-saving-account-savings-account-for-minor-1",
+  "title": "Saving Account For Minor — Saving Account For Minor - Open Savings Account for Minor Online | SBI - Personal Banking (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "minor"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "banking",
+   "for",
+   "minors",
+   "personal",
+   "saving",
+   "savings"
+  ],
+  "body": "Saving Account For Minor - Open Savings Account for Minor Online | SBI - Personal Banking:\n- Pehla Kadam and Pehli Udaan, are complete bouquets of banking products, that will not only help children learn the importance of saving money but will also allow them to experiment with the 'buying power' of money.\n- Both the Savings Accounts are fully loaded; replete with banking features like Internet Banking, Mobile Banking, etc. which will not just acquaint children with the different channels of modern-day banking but also teach them the nuances of personal finance. All these features come with 'per day limits' to ensure that they spend the money wisely.",
+  "source": "https://sbi.bank.in/web/personal-banking/accounts/saving-account/savings-account-for-minors",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-accounts-saving-account-savings-account-for-minor-2",
+  "title": "Saving Account For Minor — Features (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "minor"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "banking",
+   "for",
+   "minors",
+   "personal",
+   "saving",
+   "savings"
+  ],
+  "body": "Features:\n- Monthly Average Balance (MAB) requirement not applicable\n- Maximum Balance Rs. 10 lakh\n- Where Mobile No. Of the account holder is recorded.\n- Specially designed Personalised chequebook (with 10 cheque leaves) will be issued to the Guardian in the name of minor under guardian.\n- Where Mobile No. Of the account holder is recorded. Specially designed Personalised chequebook (with 10 cheque leaves) will be issued if the minor can sign uniformly.\n- PehlaKadam : Child's photo embossed ATM-cum-Debit Card with withdrawal/POS limit of Rs. 5,000/-.\n- Card will be issued in the name of the minor and Guardian.\n- PehliUdaan: Photo embossed ATM-cum-Debit with withdrawal/POS limit of Rs. 5,000/- will be issued in the name of the minor.\n- PehlaKadam : With viewing rights and limited transaction right like: Bill payment, Top ups. Per day transaction limit of Rs. 2,000/-\n- PehliUdaan : With viewing rights and limited transaction right like - Bill payment, Top ups, IMPS. Per day transaction limit of Rs. 2,000/-\n- Auto sweep facility with a minimum threshold of Rs. 20,000/-. Sweep in multiple of Rs 1,000/- with a minimum of Rs. 10,000/-",
+  "source": "https://sbi.bank.in/web/personal-banking/accounts/saving-account/savings-account-for-minors",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-accounts-saving-account-savings-account-for-minor-3",
+  "title": "Saving Account For Minor — Eligibility (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "minor"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "banking",
+   "for",
+   "minors",
+   "personal",
+   "saving",
+   "savings"
+  ],
+  "body": "Eligibility:\n- PehlaKadam : Minor of any age. This account will be jointly opened with the parent/guardian.\n- PehliUdaan : Minors above the age of 10 years and who can sign uniformly. This account will be opened in the sole name of the minor.\n- PehlaKadam : Jointly with the Parent/ Guardian or Singly by Parent/ Guardian\nKYC Requirements:\n- Date of Birth proof of the minor + KYC of the Parent.\n- Date of Birth proof of the minor + KYC of the Parent.\nOther Features:\n- Interest rate as applicable to Savings Bank A/c calculated on a daily balance\n- Transferability of accounts to any SBI Branch without changing the account number.\n- Nomination facility is available and recommended.\n- Specially designed branded Passbook issued free of charge.\n- Inter Core charges NIL for transfer transactions.\n- Last Updated On : Tuesday, 02-12-2025\n8.45% p.a.:\n- Basic Saving Bank Deposit Account Branch Channel\n- Basic Savings Bank Deposit Small Account",
+  "source": "https://sbi.bank.in/web/personal-banking/accounts/saving-account/savings-account-for-minors",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-salary-account-1",
+  "title": "Navigation — Salary Accounts (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "salaried"
+  ],
+  "tags": [
+   "account",
+   "salary"
+  ],
+  "body": "Salary Accounts:\n- from SBI provide a wide range of beneficial services CUSTOMIZABLE OPTIONS AVAILABLE AS WELL.\n- SBI brings to you an entire range of Salary Accounts, crafted to suit your needs. We offer special Salary Account Packages for varied sectors, such as Central Government, State Government, Defence Forces, Paramilitary Forces, Police Forces, Corporates/ Institutions etc. These comprehensive packages provide a wide range of unique benefits and services, as well as seamless access to the most advanced and secure Net Banking and Mobile Banking services.\nYONO by SBI: Lifestyle & Banking, dono:\n- YONO fulfils all your shopping, banking, investments, insurance, tickets, food needs and more! Henceforth, You Only Need One for the best deals in town!\nCredit Card:\n- Get amazing offers, deals, rewards & cashbacks on using SBI Credit Card on spends such as travel, entertainment, shopping, bill payment etc.! Get a host of lifestyle privileges as well! Special eligibility criteria for Salary Account holders. Click here to know more & apply",
+  "source": "https://sbi.bank.in/web/salary-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-salary-account-2",
+  "title": "Navigation — SBI E-FILE (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "salaried"
+  ],
+  "tags": [
+   "account",
+   "salary"
+  ],
+  "body": "SBI E-FILE:\n- With the ‘Upload Form 16’ and ‘Fast e-File’ features, you can e-file your IT returns in less than 5 minutes! The new Do-it-Yourself (Un-assisted) offering is available for FREE. For Tax Optimization & Assisted e-filing services, ‘File & Save Tax’ package is available at a discounted rate\nSBI Rewardz:\n- With our Enterprise Wide Loyalty Program, get rewarded with points for various transactions across many banking services like Debit Cards, Internet Banking, Mobile Banking, Loans etc.! Redeem your points on a wide range of products & services.\nDebit Card:\n- Go cashless and get rewarded! Use your State Bank Debit Card and avail of regular offers on leading e-commerce portals as well as merchant establishments!\nCar Loans:\n- With SBI Car Loans, your dream car can be a reality. Lowest Interest Rates & EMI, No Pre-Payment Penalty or Foreclosure Charges, Max. Repayment Tenure, Financing on 'On-Road price' and more! Check your eligibility and apply online!\nPersonal Loans:\n- With SBI Personal loans, you can finance your dream holiday, marriage or any such emergency need. Apply online and avail of attractive rates.",
+  "source": "https://sbi.bank.in/web/salary-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-salary-account-3",
+  "title": "Navigation — Education Loans (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "salaried",
+   "student"
+  ],
+  "tags": [
+   "account",
+   "salary"
+  ],
+  "body": "Education Loans:\n- With SBI Education Loans, you can power your career with professional full time courses at the best institutions in India or Overseas. Apply online and avail of attractive rates.\nHome Loans:\n- SBI Home Loans come to you on the solid foundation of trust and transparency. Attractive interest rates, low EMI, pre-approved projects and more! Check your eligibility and apply online!\nAccenture:\n- No more words to express my feeling for such a delightful service.\nTata Steel Limited:\n- It has been more than a year since I started using Corporate Salary Package services offered by SBI. The experience has been delightful and I rarely need to visit the bank as the digital services provided by SBI are simply amazing. The wide spread network of SBI branches across the country is an added advantage. Truly a banker to every Indian",
+  "source": "https://sbi.bank.in/web/salary-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-salary-account-defence-salary-package-1",
+  "title": "Navigation (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "defence",
+   "salaried"
+  ],
+  "tags": [
+   "account",
+   "defence",
+   "package",
+   "salary"
+  ],
+  "body": "Defence Salary Package (DSP):\n- Defence personnel of the Indian Army, Indian Navy, Indian Air Force, Assam Rifles, Rashtriya Rifles (RR) and GREF [Border Road Organisation (BRO)] can avail Salary Accounts under Defence Salary Package (DSP). Retired Personnel can also open / convert their accounts in DSP – Pension.\n- Available in three variants, namely Gold, Diamond and Platinum based on rank of personnel of the Indian Army, Indian Navy, Indian Air Force, Assam Rifles, RR and GREF (Border Road Organisation). Personnel Below Officer Rank (PBOR) are categorised under Gold Variant; Officers are categorised under Diamond and Platinum variants.\n- GOLD : JCOs & other Ranks\n- PLATINUM : Lt. Colonel, Colonel, Brigadier\n- RHODIUM : Lt General, Major General, Chief of Army Staff, Chief of Defence Staff\n- GOLD : Sea II, Sea I, Leading Seaman, Petty Officer, Chief Petty Officer, Master Chief Petty Officer-II and Master Chief Petty Officer-I\n- DIAMOND : Sub Lieutenant, Lieutenant and Lieutenant Commander\n- RHODIUM : Vice Admiral, Rear Admiral, Chief of Naval Staff, Chief of Defence Staff\n- *DSP Accounts of Sailors joining Navy before they attain majority, will be opened without Insurance\n- GOLD : Personnel Below Officer Rank\n- DIAMOND : Flying Officer, Flight Lieutenant, Squadron Leader\n- PLATINUM : Wing Commander, Group Captain, Air Commodore\n- RHODIUM :Air Marshal, Air Vice Marshal, Air Chief Marshal, Chief of Air Staff, Chief of Defence Staff\n- DSP-General Reserve Engineering Force (GREF)/Border Road Organisation (BRO)\n- GOLD : Group B (Non-Gazetted) & Group C Employees\n- Group A (Gazetted) Deputy Chief Medical Officer. Joint Director (Admin), Executive Engineer (Civil)NFSG, Executive Engineer (E&M) NFSG, Executive Engineer (Civil), Executive Engineer (EM), Senior Admin Officer, M",
+  "source": "https://sbi.bank.in/web/salary-account/defence-salary-package",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-sme-current-accounts-1",
+  "title": "Open Online Current Account in India (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "msme"
+  ],
+  "tags": [
+   "accounts",
+   "business",
+   "current",
+   "sme"
+  ],
+  "body": "Open Online Current Account in India - Personal Banking | SBI - Business:\n- MAB Rs.5000/-\n- More Information Apply Now Apply through Video-KYC\n- MAB Rs. 50000/-\n- More Information Apply Now Apply through Video-KYC\n- MAB Rs.100000/-\n- More Information Apply Now Apply through Video-KYC\n- MAB Rs.500000/-\n- More Information Apply Now Apply through Video-KYC\n- MAB Rs.1000000/-\n- More Information Apply Now Apply through Video-KYC\n- MAB Rs 25,00,000/-\n- More Information Apply Now Apply through Video-KYC\n- MAB Rs. 5000000/-\n- More Information Apply Now Apply through Video-KYC\n- MAB Rs. 10,000\n- MAB Rs. 50,000\n- Current Account for Real Estate Developers",
+  "source": "https://sbi.bank.in/web/business/sme/current-accounts",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-no-lien-current-account-1",
+  "title": "No Lien Current Account (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "msme"
+  ],
+  "tags": [
+   "account",
+   "business",
+   "current",
+   "lien"
+  ],
+  "body": "- Specialized Current Account which is project-specific & is for smooth implementation of your new project. A Separate No Lien Account can be opened for every project without disrupting the normal Current Account for the routine transactions and regular operation.\n- Eligibility: Individual & Non-Individual Customers having letter, issued by the Central/ States Govt. Departments /Autonomous Bodies/ Statutory Bodies/ PSUs/ Development Financial Institutions (DFIs) i.e. SIDBI etc. for opening of No Lien Current Account.\nFeatures:\n- Cheque Books : First 25 cheque leaves free\n- Cash Deposit at Home, Non-Home Branches : Not allowed\n- Hold / Lien in the Account: Only Home Branch will be permitted to mark\n- *Terms & Conditions Apply. The Bank reserves the right to change the above information at any time without prior notice\n- For assistance in choosing the right SBI Current Account for your Business, please email us at ask.ca@sbi.co.in. ( EXCLUSIVELY FOR NEW CURRENT ACCOUNT OPENING )\n- For any other queries please contact toll free number 1800-1234/ 1800-2100.",
+  "source": "https://sbi.bank.in/web/business/no-lien-current-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-no-lien-current-account-2",
+  "title": "No Lien Current Account — Charges (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "msme"
+  ],
+  "tags": [
+   "account",
+   "business",
+   "current",
+   "lien"
+  ],
+  "body": "Charges:\n- For more details on service charges please visit https://sbi.bank.in/web/personal-banking/information-services/kyc-guidelines/revised-service-charges\n- *Terms & Conditions Apply. The Bank reserves the right to change the above information at any time without prior notice\n- For assistance in choosing the right SBI Current Account for your Business, please email us at ask.ca@sbi.co.in. ( EXCLUSIVELY FOR NEW CURRENT ACCOUNT OPENING )\n- For any other queries please contact toll free number 1800-1234/ 1800-2100.\nGeneral Guidelines:\n- General Guidelines (3.9 MB)\n- *Terms & Conditions Apply. The Bank reserves the right to change the above information at any time without prior notice\n- For assistance in choosing the right SBI Current Account for your Business, please email us at ask.ca@sbi.co.in. ( EXCLUSIVELY FOR NEW CURRENT ACCOUNT OPENING )\n- For any other queries please contact toll free number 1800-1234/ 1800-2100.\n- Last Updated On : Monday, 02-11-2026",
+  "source": "https://sbi.bank.in/web/business/no-lien-current-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-individual-current-account-1",
+  "title": "INDIVIDUAL CURRENT ACCOUNT — Features (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "msme"
+  ],
+  "tags": [
+   "account",
+   "business",
+   "current",
+   "individual"
+  ],
+  "body": "Features:\n- A smarter way to manage your finances.\n- Monthly Average Balance (MAB): ₹ 10,000.\n- Free Cash Deposit up to ₹ 25,000/- per day\n- Free 50 Multicity Cheque Leaves per month\n- *Terms & Conditions Apply. The Bank reserves the right to change the above information at any time without prior notice\n- For more information about our Current Account products, please email us at ask.ca@sbi.co.in with the subject “PRODUCT ASSISTANCE”.\nCharges:\n- For more details on service charges please visit https://sbi.bank.in/web/personal-banking/information-services/kyc-guidelines/revised-service-charges\n- *Terms & Conditions Apply. The Bank reserves the right to change the above information at any time without prior notice\n- For more information about our Current Account products, please email us at ask.ca@sbi.co.in with the subject “PRODUCT ASSISTANCE”.",
+  "source": "https://sbi.bank.in/web/business/individual-current-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-individual-current-account-2",
+  "title": "INDIVIDUAL CURRENT ACCOUNT — General Guidelines (SBI)",
+  "bank": "SBI",
+  "category": "account",
+  "segments": [
+   "individual",
+   "msme"
+  ],
+  "tags": [
+   "account",
+   "business",
+   "current",
+   "individual"
+  ],
+  "body": "General Guidelines:\n- General Guidelines (3.9 MB)\n- *Terms & Conditions Apply. The Bank reserves the right to change the above information at any time without prior notice\n- For more information about our Current Account products, please email us at ask.ca@sbi.co.in with the subject “PRODUCT ASSISTANCE”.\n- Last Updated On : Wednesday, 16-09-2026",
+  "source": "https://sbi.bank.in/web/business/individual-current-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-sme-sme-loans-digital-loans-1",
+  "title": "Digital Loans (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "msme"
+  ],
+  "tags": [
+   "business",
+   "digital",
+   "loans",
+   "sme"
+  ],
+  "body": "Digital Loans - Business:\n- MSME Seller’s Invoice Financing – MSME Sahaj\n- Working Capital needs & Acquisition of fixed assets\n- Loans to MSMEs above ₹10.00 Lakh to ₹5 crore sourced through CLP [Marketplace]",
+  "source": "https://sbi.bank.in/web/business/sme/sme-loans/digital-loans",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-sbi-green-green-loans-business-finance-to-solar-vendors-1",
+  "title": "Finance to Solar Vendors (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "individual",
+   "msme"
+  ],
+  "tags": [
+   "business",
+   "finance",
+   "green",
+   "loans",
+   "sbi",
+   "solar",
+   "vendors"
+  ],
+  "body": "Features:\n- Target Group : Existing SME Business enterprises engaged as Solar vendors/ Channel Partners/Sub- Contractors registered with MNRE, handling execution of Residential and Commercial Solar Power Projects.\n- Solar Vendor should have the valid Udyam Registration Certificate and should be registered with GST.\n- Solar Vendor/ Channel Partner/ Sub- Contractor should be registered with Ministry of New & Renewable Energy/DISCOM. Blacklisted vendors on MNRE site are not eligible.\n- CIC Score of all Promoters > 650.\n- Minimum: > Rs. 10 lacs\n- Maximum: Rs. 5 crores.\n- Attractive Interest rates based on rating of the Borrower or as per Scheme Specific Rating (if applicable) or as per extant guidelines of the Bank.\n- No Collateral security. All loans are to be covered under CGTMSE.\n- As per Bank's extant card rates applicable from time to time.\n- Stand-by line of credit up to 20% of the limit.\n- Last Updated On : Thursday, 03-04-2025",
+  "source": "https://sbi.bank.in/web/sbi-green/green-loans/business/finance-to-solar-vendors",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-current-accounts-import-export-traders-current-account-1",
+  "title": "Import Export Traders Current Account — Import Export Trader's Current Account (SBI)",
+  "bank": "SBI",
+  "category": "trade_finance",
+  "segments": [
+   "msme"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "business",
+   "current",
+   "export",
+   "import",
+   "traders"
+  ],
+  "body": "Import Export Trader's Current Account:\n- A specialized Import Export traders Current Account for Non-Credit SME Customers\nFeatures:\n- Monthly Average Balance: Rs.5,00,000/-\n- Free Cash Deposit: ₹100 lakhs per month including cash deposited at Home Branch, Non-Home Branches, GCC and CDM/Recycler.\n- Cash Management Product: 25% discount on card rates* of Cash Management Product services (e-Collection including VAN (Virtual Account Number), e-Payments and liquidity management)\n- Foreign Travel Card (FTC) Single Currency or Multiple Currency: Issuance of one Foreign Travel Card to the account holder is free\n- Free Cheque Leaves: 700 per month\n- *Terms & Conditions Apply. The Bank reserves the right to change the above information at any time without prior notice\n- For assistance in choosing the right SBI Current Account for your Business, please email us at ask.ca@sbi.co.in. ( EXCLUSIVELY FOR NEW CURRENT ACCOUNT OPENING )\n- For any other queries please contact toll free number 1800-1234/ 1800-2100.",
+  "source": "https://sbi.bank.in/web/business/current-accounts/import-export-traders-current-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-business-current-accounts-import-export-traders-current-account-2",
+  "title": "Import Export Traders Current Account — Charges (SBI)",
+  "bank": "SBI",
+  "category": "trade_finance",
+  "segments": [
+   "individual",
+   "msme"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "business",
+   "current",
+   "export",
+   "import",
+   "traders"
+  ],
+  "body": "Charges:\n- For more details on service charges please visit https://sbi.bank.in/web/personal-banking/information-services/kyc-guidelines/revised-service-charges\n- *Terms & Conditions Apply. The Bank reserves the right to change the above information at any time without prior notice\n- For assistance in choosing the right SBI Current Account for your Business, please email us at ask.ca@sbi.co.in. ( EXCLUSIVELY FOR NEW CURRENT ACCOUNT OPENING )\n- For any other queries please contact toll free number 1800-1234/ 1800-2100.\nGeneral Guidelines:\n- General Guidelines (3.9 MB)\n- *Terms & Conditions Apply. The Bank reserves the right to change the above information at any time without prior notice\n- For assistance in choosing the right SBI Current Account for your Business, please email us at ask.ca@sbi.co.in. ( EXCLUSIVELY FOR NEW CURRENT ACCOUNT OPENING )\n- For any other queries please contact toll free number 1800-1234/ 1800-2100.\n- Last Updated On : Monday, 02-11-2026",
+  "source": "https://sbi.bank.in/web/business/current-accounts/import-export-traders-current-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-recuring-deposit-2",
+  "title": "Recuring Deposit — Features (SBI)",
+  "bank": "SBI",
+  "category": "deposit",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "deposit",
+   "recuring",
+   "yono"
+  ],
+  "body": "Features:\n- Period of deposit Minimum - 12 months, Maximum - 120 month\n- Minimum deposit amount is Rs. 100/- per month (thereafter in multiples of Rs. 10/-)\n- Maximum Deposit Amount: No upper limit\n- For a/c with maturity period 5 years and less Rs. 1.50 per Rs. 100/- per month\n- For a/c with maturity period above 5 years- Rs. 2.00 per Rs. 100/- per month\n- AA service charge of Rs. 10/- will be levied on Recurring Deposit accounts paid out on or after the date of maturity, wherein there is default in payment of three or more consecutive instalments and the account has not been regularized.\n- In case six consecutive instalments are not received, the account shall prematurely be closed, and balance paid to the account holder.\n- On maturity the amount will be credited into Installment debiting account.\n- Nomination available in favour of individual only.\n- Universal Passbook can be issued at Home branch.\n- Loan/OD against deposit is available at Home branch.\n- Rate of Interest as applicable to Term Deposits for Public and Senior Citizens.",
+  "source": "https://sbi.bank.in/web/yono/recuring-deposit",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-yono-recuring-deposit-3",
+  "title": "Recuring Deposit — Terms and Condition (SBI)",
+  "bank": "SBI",
+  "category": "deposit",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "deposit",
+   "recuring",
+   "yono"
+  ],
+  "body": "Terms and Condition:\n- Premature Closure Allowed subject to premature penalty as under:\n- For Term Deposit upto Rs 5.00 lacs, the penalty for premature withdrawal will be 0.50% (all tenors).\n- For Term Deposits above Rs 5.00 lacs, applicable penalty will be 1% (all tenors)\n- The interest shall be 0.50% or 1% below the rate applicable at the time of Deposits for the period Deposit remained with the Bank or 0.50% or 1% below the contracted rate, whichever is lower.\n- TDS is applicable as per Income Tax Rules.\n- Form 15G/15H can be submitted by the Depositor to get exemption from tax deduction as per Income Tax Rules.\n- Last Updated On : Thursday, 30-12-2021",
+  "source": "https://sbi.bank.in/web/yono/recuring-deposit",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-agri-rural-agriculture-banking-crop-loan-kisan-credit-card-1",
+  "title": "Kisan Credit Card — Purpose: (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "farmer",
+   "individual"
+  ],
+  "tags": [
+   "agri",
+   "agriculture",
+   "banking",
+   "card",
+   "credit",
+   "crop",
+   "kisan",
+   "loan",
+   "rural"
+  ],
+  "body": "Purpose::\n- To provide timely and adequate credit to farmers to meet their production credit needs (Cultivation expenses) besides meeting contingency expenses and expenses related to ancillary activities through simplified procedure facilitating the borrowers for availing loans as and when they need.",
+  "source": "https://sbi.bank.in/web/agri-rural/agriculture-banking/crop-loan/kisan-credit-card",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-agri-rural-agriculture-banking-crop-loan-kisan-credit-card-2",
+  "title": "Kisan Credit Card — Features: (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "farmer",
+   "individual"
+  ],
+  "tags": [
+   "agri",
+   "agriculture",
+   "banking",
+   "card",
+   "credit",
+   "crop",
+   "kisan",
+   "loan",
+   "rural"
+  ],
+  "body": "Features::\n- Type of Facility: Revolving cash credit account. Credit balance in the account, if any, will fetch interest at Savings bank rate.\n- Quantum of Loan: Need Based finance considering cropping pattern, acreage and Scale of Finance (SOF) determined by DLTC (District Level Technical Committee)\n- Repayment: The repayment period as per the crop period (Short/ Long) and marketing period for the crop.\n- Primary: Hypothecation of Crops grown / assets to be created out of Bank finance.\n- Collateral: Equitable mortgage / registered mortgage of land / immovable property as applicable of the value of 100 % loan. However, collateral is waived for KCC limit up to Rs. 2.00 lakhs and up to Rs.3.00 lakhs, in case of tie up arrangement\n- Interest Subvention: 3% p.a. interest subvention as Prompt Repayment Incentive (PRI) up to Rs. 3.00 lakhs\n- Tenure: 5 years, with 10% annual increase of limit every year, subject to annual review.\n- Rupay debit cards for all eligible KCC borrowers.\n- a. Eligible crops may be covered under PRADHAN MANTRI FASAL BIMA YOJNA (PMFBY) on premium paymen.\n- b. Borrower should also opt for Personal Accident Insurance, Health Insurance (wherever applicable)",
+  "source": "https://sbi.bank.in/web/agri-rural/agriculture-banking/crop-loan/kisan-credit-card",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-agri-rural-agriculture-banking-crop-loan-kisan-credit-card-3",
+  "title": "Kisan Credit Card — Eligibility: (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "farmer",
+   "individual"
+  ],
+  "tags": [
+   "agri",
+   "agriculture",
+   "banking",
+   "card",
+   "credit",
+   "crop",
+   "kisan",
+   "loan",
+   "rural"
+  ],
+  "body": "Eligibility::\n- All farmers-individuals/Joint borrowers who are owner cultivators.\n- Tenant farmers, Oral lessees and Share croppers, etc,.\n- SHGs or Joint Liability Groups of farmers including tenant farmers, share croppers, etc,.\nDocuments Required::\n- Proof of landholding duly certified by the revenue authorities.\n- Cropping pattern (Crops grown) with acreage.\n- Security documents for loan limit above Rs.2.00 lakhs / Rs.3.00 lakhs, as applicable.\n- Any other document as per sanction.\nInterest Rate::\n- Up to Rs. 3.00 lakhs- 7% p.a. subject to GoI providing interest subvention. For interest subvention, submission of Aadhar details to Bank is mandatory (wherever applicable).\n- Above Rs.3.00 lakhs and below ₹ 50.00 Lakhs- 3.25% above 1-Year MCLR.\n- ₹ 50.00 lakhs and above- Based on Credit Risk Assessment (CRA) rating.\nProcessing fee::\n- KCC Limits up to Rs.3.00 lakhs: NIL\n- Limits more than Rs.3.00 lakhs to Rs. 50.00 lakhs: 0.65% of loan limit\n- Limits more than Rs. 50.00 lakhs: Based on CRA rating in the range of 0.50 % to 1.00% of loan limit.\n- It is subject to change from time to time.",
+  "source": "https://sbi.bank.in/web/agri-rural/agriculture-banking/crop-loan/kisan-credit-card",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-agri-rural-agriculture-banking-crop-loan-kisan-credit-card-4",
+  "title": "Kisan Credit Card — YONO Review: (SBI)",
+  "bank": "SBI",
+  "category": "loan",
+  "segments": [
+   "farmer",
+   "individual"
+  ],
+  "tags": [
+   "agri",
+   "agriculture",
+   "banking",
+   "card",
+   "credit",
+   "crop",
+   "kisan",
+   "loan",
+   "rural"
+  ],
+  "body": "YONO Review::\n- Hassle free KCC review on through YONO App or at YONO Branch portal. The salient features of process are:\n- Contact less & paperless journey for application through YONO App.\n- E2E process on YONO Branch portal.\n- Minimum data entry by farmer and branch\n- 1. What are the credit components covered under KCC?\n- To meet short term requirements for cultivation of crops\n- Investment credit requirement for Agri and allied activities like farm machinery, etc. which is repayable within one year.\n- 2. What is the minimum and maximum loan under KCC?\n- Minimum loan: No ceiling Maximum loan: No ceiling\n- It is need based considering cropping pattern, acreage and Scale of Finance (SOF)\n- For detailed and updated information, please contact our nearest Branch.\n- Last Updated On : Thursday, 05-02-2026",
+  "source": "https://sbi.bank.in/web/agri-rural/agriculture-banking/crop-loan/kisan-credit-card",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-investments-mutual-funds-1",
+  "title": "NRI Mutual Funds — Mutual Funds - NRI (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "funds",
+   "investments",
+   "mutual",
+   "nri"
+  ],
+  "body": "Mutual Funds - NRI:\n- New to the world of mutual funds?\n- Trust us - whether you are just starting out or are an experienced investor, SBI Mutual Fund has tailored solutions to meet NRI investment goals, risk appetite, investment horizon, and liquidity needs.",
+  "source": "https://sbi.bank.in/web/nri/investments/mutual-funds",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-investments-mutual-funds-2",
+  "title": "NRI Mutual Funds — SBI Mutual Fund offers a variety of NRI investment schemes specifically for NRI investors: (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "funds",
+   "investments",
+   "mutual",
+   "nri"
+  ],
+  "body": "SBI Mutual Fund offers a variety of NRI investment schemes specifically for NRI investors::\n- Money Market Funds: Ideal for short-term investments, these funds invest in government debt securities. They are a secure option for parking money for short periods, offering high liquidity and stable returns.\n- Debt Funds: These funds focus on investments in government securities and corporate debt instruments, providing a stable income stream with lower risk.\n- Hybrid Funds: Offering a balanced mix of equity and debt investments, these funds provide a diversified portfolio in a single package.\n- Equity Funds: Targeted at long-term investors, these funds invest in the stock market with the goal of capital appreciation.\n- Solution-Oriented Funds: Designed for long-term NRI wealth creation, these funds help with retirement planning and saving for your children's future.\n- Index Funds & ETFs: These funds track specific stock market indices, and we also offer Exchange Traded Funds (ETFs) and Fund of Funds for diversified NRI investment opportunities.\n- For more information on SBI NRI Mutual Fund Investment, click here .\n- It is like having your own personal investment advisor.\n- Last Updated On : Friday, 13-12-2024",
+  "source": "https://sbi.bank.in/web/nri/investments/mutual-funds",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-demat-account-1",
+  "title": "Gateway to NRI Investments with SBI NRI Demat Account — Demat Account - NRI (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "demat",
+   "nri"
+  ],
+  "body": "Demat Account - NRI:\n- NRIs who wish to invest in shares, bonds, debentures of Indian companies can opt for the Demat facility with us. We convert your physical holding of securities (backed by physical share certificates) to electronic balances held in a Demat account. You can have securities balances either by converting your existing physical certificates, or by buying them in dematerialized form.",
+  "source": "https://sbi.bank.in/web/nri/accounts/demat-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-nri-accounts-demat-account-2",
+  "title": "Gateway to NRI Investments with SBI NRI Demat Account — Features of NRI Demat Account (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "nri"
+  ],
+  "tags": [
+   "account",
+   "accounts",
+   "demat",
+   "nri"
+  ],
+  "body": "Features of NRI Demat Account:\n- NRI Demat Account maintenance & safe custody: Facilitates maintaining security balance in electronic form.\n- Dematerialization: Demat Account for NRI Facilitates converting physical share certificate into electronic balances.\n- Rematerialization: Demat Account for NRI Facilitates converting the electronic balances to physical (share certificate) form.\n- Account transfers: Demat Account for NRI Facilitates delivery / receipt of electronic balances consequent to market / off-market trades.\n- Pledge / hypothecation: Demat Account for NRI Facilitates blocking securities balance of borrowers in favour of lenders for obtaining Loans / advances against shares.\n- Initial public offer: Demat Account for NRI Facilitates faster and direct credit of security balances into DP account on allotment through public issue of companies.\n- Disbursement of corporate benefits: Demat Account for NRI Facilitates faster and direct credit of security balance into DP account on account of non-monetary corporate benefits such as bonus and rights issues.\n- Security lending: Demat Account for NRI Facilitates earning extra income on your dematerialized holdings by the way of securities lending.\n- Note: To opt for Demat facility for NRI and to have the Portfolio Investment Scheme operationalised, please contact any SBI branch authorised to handle Portfolio Investment Scheme.\n- Last Updated On : Thursday, 12-09-2024",
+  "source": "https://sbi.bank.in/web/nri/accounts/demat-account",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-deposits-annuity-deposit-sch-1",
+  "title": "Annuity Deposit Scheme — Annuity Deposit Scheme - Personal Banking (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "annuity",
+   "banking",
+   "deposit",
+   "deposits",
+   "investments",
+   "personal",
+   "scheme"
+  ],
+  "body": "Annuity Deposit Scheme - Personal Banking:\n- To enable the depositor to pay one-time lump sum amount and to receive the same in Equated Monthly Instalments (EMIs), comprising a part of the principal amount as well as interest on the reducing principal amount, compounded at quarterly rests and discounted to the monthly value.",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/deposits/annuity-deposit-scheme",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-deposits-annuity-deposit-sch-2",
+  "title": "Annuity Deposit Scheme — Features (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "annuity",
+   "banking",
+   "deposit",
+   "deposits",
+   "investments",
+   "personal",
+   "scheme"
+  ],
+  "body": "Features:\n- To enable the customer to deposit one-time lump sum amount and receive re-payment of the same in monthly annuity instalment comprising part of the principal amount plus interest.\n- Period of deposit: 36/60/84 or 120 months\n- Deposit amount based on minimum monthly annuity of Rs 1000/- for the relevant period\n- Premature payment allowed for the deposits up to Rs.15,00,000/-. Penalty chargeable, as applicable to Term Deposits. In case of death of depositor, premature payment is allowed without any limit.\n- Maximum deposit amount: No Upper Limit\n- Rate of interest as applicable to Term Deposits for Public and Senior Citizens\n- Payment of annuity on the anniversary date of the month following the month of deposit.\n- If that date is non-existent (29th, 30th & 31st), it will be paid on the 1st day of the next month.\n- Nomination is available in favour of individual only\n- Overdraft/loan up to 75% of the balance amount of annuity may be granted on special cases.\n- After disbursal of OD/loan, further annuity payment will be deposited in loan account only.\n- Universal Passbook is issued in lieu of Term Deposit\nEligibility:\n- Mode of Holding Singly or jointly",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/deposits/annuity-deposit-scheme",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-deposits-annuity-deposit-sch-3",
+  "title": "Annuity Deposit Scheme — Terms and Conditions (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "annuity",
+   "banking",
+   "deposit",
+   "deposits",
+   "investments",
+   "personal",
+   "scheme"
+  ],
+  "body": "Terms and Conditions:\n- Premature closure is Permitted in case of death of depositor. Premature payment is also allowed for deposits up to Rs. 15.00 lacs.\n- Pre- mature penalty is chargeable as applicable to Term Deposit.\n- Last Updated On : Monday, 01-12-2025\n8.45% p.a.:\n- Har Ghar Lakhpati (New Variant of Recurring Deposit Scheme)\n- ‘SBI Patrons’ : Term Deposit Scheme for Super Senior Citizens\n- SBI Green Rupee Term Deposit (SGRTD)\n- SBI Tax Savings Scheme, 2006\n- Motor Accident Claims Annuity (Term) Deposit Account (MACAD)\n- NON – CALLABLE TERM DEPOSIT - BULK (NCD-B)\n- NON-CALLABLE TERM DEPOSIT - RETAIL (NCD-R)",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/deposits/annuity-deposit-scheme",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-sbi-green-home-1",
+  "title": "Home (SBI)",
+  "bank": "SBI",
+  "category": "other",
+  "segments": [
+   "individual"
+  ],
+  "tags": [
+   "green",
+   "home",
+   "sbi"
+  ],
+  "body": "8.45% p.a.:\n- Digital Life certificate, Campaign launched by DoPPW , Government of India\n- Empanelment of valuers in SBI North East Circle.\n- mCASH (Sending & Claiming) facility will not be available in OnlineSBI & YONO Lite after 30.11.2025. Please use alternate mode of transactions such as UPI, IMPS, NEFT, RTGS etc for transfer of money to third party beneficiaries.\n- MODIFICATION - CGTMSE GUARANTEE COVERAGE UPTO 10 CR\n- MODIFICATION - RISK PREMIUM ON CGTMSE GUARANTEE FEE FOR SBI\n- Know Your Lender - Grow Your Business Handbook for MSME customers\n- National Centre for Financial Education :E-Learning Management System\n- RBI Guidelines for compounding of contraventions under FEMA, 1999\n- State Bank of India has abrogated HIV testing from its list of medical tests to be undertaken during SBI recruitment and promotion examinations.\n- Claim Request for Deceased Settlement for Deposit Accounts\n- \"SBI WECARE\" Deposit Scheme for Senior Citizens\n- SBI Green Rupee Term Deposit (SGRTD)",
+  "source": "https://sbi.bank.in/web/sbi-green/home",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-govt-schemes-rbi-bonds-1",
+  "title": "RBI Bonds — Salient Features of Floating Rate Savings Bonds (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "govt_employee",
+   "individual"
+  ],
+  "tags": [
+   "banking",
+   "bonds",
+   "deposits",
+   "govt",
+   "investments",
+   "personal",
+   "rbi",
+   "schemes"
+  ],
+  "body": "Salient Features of Floating Rate Savings Bonds:\n- Government of India has announced to launch Floating Rate Savings Bonds, 2020 (Taxable) scheme commencing from July 01, 2020.\n- Floating Rate Savings Bonds, 2020 (Taxable)\nEligibility::\n- The Bonds are open to investment by individuals (including Joint Holdings) and Hindu Undivided Families. NRIs are not eligible for making investments in these Bonds.\nIssue Price::\n- The Bonds will be issued at par i.e. at ₹ 100.00 per cent\n- The Bonds will be issued for a minimum amount of ₹ 1000/- (face value) and in multiples thereof. Accordingly, the issue price, will be ₹ 1000/- for every ₹ 1,000/- (Nominal).\n- The Bonds will be issued in demat form (Bond Ledger Account) only\n- A certificate of holding will be issued to the customer as proof of subscription",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/govt-schemes/rbi-bonds",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-govt-schemes-rbi-bonds-2",
+  "title": "RBI Bonds — Features: (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "govt_employee",
+   "individual"
+  ],
+  "tags": [
+   "banking",
+   "bonds",
+   "deposits",
+   "govt",
+   "investments",
+   "personal",
+   "rbi",
+   "schemes"
+  ],
+  "body": "Features::\n- The broad features of the scheme are given below:\n- Applications for the Bonds in the form of Bond Ledger Account will be received in the designated branches of SBI, Nationalised banks, IDBI Bank Ltd, Axis Bank Ltd, HDFC Bank Ltd and ICICI Bank Ltd.\n- Subscription to the bonds will be in the form of cash (upto ₹20,000/- only)/drafts/cheques or any electronic mode acceptable to the Receiving Office\n- The Bonds will be issued in non-cumulative form only.\n- There will be no maximum limit for investment in the Bonds.\n- Income-tax: Interest on the Bonds will be taxable under the Income-tax Act, 1961 as applicable according to the relevant tax status of the bond holder.\n- Wealth tax: The Bonds will be exempt from Wealth-tax under the Wealth- tax Act, 1957.\n- The Bonds shall be repayable on the expiration of 7 (Seven) years from the date of issue. Premature redemption shall be allowed for specified categories of senior citizens.\n- The Bonds are not tradeable in the Secondary market and are not eligible as collateral for loans from banking institutions, non-banking financial companies or financial institutions.\n- The interest on the bonds is payable semi-annually on 1st Jan and 1st July every year. The coupon on 1st January 2024 shall be paid at 8.05%. The Interest rate for next half-year will be reset every six months, the first reset being on January 01, 2024. There is no option to pay interest on cumulative basis.\n- A sole holder or a sole surviving holder of a Bond, being an individual, can make a nomination",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/govt-schemes/rbi-bonds",
+  "origin": "ingested"
+ },
+ {
+  "id": "sbi-bank-in-web-personal-banking-investments-deposits-govt-schemes-rbi-bonds-3",
+  "title": "RBI Bonds — FAQ ON FLOATING RATE SAVINGS BONDS 2020(TAXABLE) (SBI)",
+  "bank": "SBI",
+  "category": "investment",
+  "segments": [
+   "govt_employee",
+   "individual"
+  ],
+  "tags": [
+   "banking",
+   "bonds",
+   "deposits",
+   "govt",
+   "investments",
+   "personal",
+   "rbi",
+   "schemes"
+  ],
+  "body": "FAQ ON FLOATING RATE SAVINGS BONDS 2020(TAXABLE):\n- 1.Which are the offices authorised to receive Floating Rate Savings Bonds 2020 (Taxable)application?\n- Application for the bonds can be received at:\n- Any number of branches of SBI, Nationalised Banks, three private sector banks and SCHIL (Stock holding Corporation of India).\n- Branches of any other bank as specified by the RBI in this behalf from time to time.\n- 2.How the RBIBONDS are issued?\n- These bonds are issued in a electronic form and are credited to the investor’s, Bond Ledger Account (BLA) on the date of tender of cash or the date of realization of draft/ cheque. A certificate of holding to be issued to the customer as proof of subscription.\n- 3.Who can Invest?\n- An individual, not being a Non-Resident Indian-(a) in his or her individual capacity, or (b) in individual capacity on joint basis, or (c) in individual capacity on any one or survivor basis, or(d) on behalf of a minor as father/mother/legal guardian.\n- 4.What is the limit of Investment?\n- There is no maximum limit on investment.\n- 5.What is the issue price?\n- The bonds is issued at par or at 100%, i.e. the amount of the bond will be for exactly the amount that has been paid. The bonds is issued at a minimum of 1000 INR, and multiples thereof.\n- 6.What is the maturity period?\n- The Bonds shall be repayable on the expiration of 7 years from the date of issue. No interest will be paid after maturity of Bond.\n- 7.Whether interest is Taxable?\n- Interest on the Bonds will be taxable under the Income Tax Act, 1961 as applicable according to the relevant tax status of the Bond holders.\n- 8.Whether Wealth Tax is applicable for these Bonds.\n- The Bonds will be exempt from wealth-tax under the Wealth Tax Act, 1957.\n- 9.Whether Tax exemption is allowed for any ",
+  "source": "https://sbi.bank.in/web/personal-banking/investments-deposits/govt-schemes/rbi-bonds",
+  "origin": "ingested"
+ }
+]
